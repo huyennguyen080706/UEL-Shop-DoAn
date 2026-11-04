@@ -1,0 +1,4943 @@
+{
+  "products": [
+    {
+      "code": "AT-THU-01",
+      "slug": "ao-thun-uel-orbit-oversize",
+      "name": "Áo thun UEL Orbit Oversize",
+      "price": 219000,
+      "description": "Mẫu áo thun form oversize màu xanh navy với họa tiết quỹ đạo mang cảm hứng từ hành trình đại học. Phần ngực có logo chữ UEL Orbit nhỏ, mặt sau in họa tiết quỹ đạo nổi bật. Phù hợp phối cùng quần jeans hoặc quần thể thao khi đi học.",
+      "material": "Cotton 100%, 220gsm",
+      "care": "Lộn trái áo, giặt nước mát; không ủi trực tiếp lên hình in",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/at-thu-01/1.webp",
+        "images/products/at-thu-01/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "AT-THU-01-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#192741",
+          "size": "S",
+          "stock": 34
+        },
+        {
+          "sku": "AT-THU-01-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#192741",
+          "size": "M",
+          "stock": 38
+        },
+        {
+          "sku": "AT-THU-01-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#192741",
+          "size": "L",
+          "stock": 42
+        },
+        {
+          "sku": "AT-THU-01-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#192741",
+          "size": "XL",
+          "stock": 34
+        }
+      ]
+    },
+    {
+      "code": "AT-THU-02",
+      "slug": "ao-thun-uel-sunrise",
+      "name": "Áo thun UEL Sunrise",
+      "price": 199000,
+      "description": "Áo thun màu kem có biểu tượng mặt trời mọc và đường nét khuôn viên trường cách điệu. Kiểu dáng unisex đơn giản, điểm nhấn nằm ở hình thêu nhỏ trước ngực và thông điệp tích cực sau lưng. Một lựa chọn phối đồ nhẹ nhàng cho những ngày đến lớp.",
+      "material": "Cotton 100%, 200gsm",
+      "care": "Giặt nước mát; tránh thuốc tẩy; phơi mặt trái trong bóng râm",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/at-thu-02/1.webp",
+        "images/products/at-thu-02/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "AT-THU-02-TRANG-KEM-S",
+          "color": "Trắng kem",
+          "hex": "#EAE2D2",
+          "size": "S",
+          "stock": 38
+        },
+        {
+          "sku": "AT-THU-02-TRANG-KEM-M",
+          "color": "Trắng kem",
+          "hex": "#EAE2D2",
+          "size": "M",
+          "stock": 42
+        },
+        {
+          "sku": "AT-THU-02-TRANG-KEM-L",
+          "color": "Trắng kem",
+          "hex": "#EAE2D2",
+          "size": "L",
+          "stock": 46
+        },
+        {
+          "sku": "AT-THU-02-TRANG-KEM-XL",
+          "color": "Trắng kem",
+          "hex": "#EAE2D2",
+          "size": "XL",
+          "stock": 38
+        }
+      ]
+    },
+    {
+      "code": "AT-THU-03",
+      "slug": "ao-baby-tee-uel-book-club",
+      "name": "Áo Baby Tee UEL Book Club",
+      "price": 189000,
+      "description": "Mẫu baby tee màu hồng phấn với hình cuốn sách và chữ UEL Book Club được thêu nhỏ. Thiết kế tay ngắn, dáng ôm nhẹ cùng thông điệp đọc, suy nghĩ và trưởng thành ở mặt sau. Phù hợp với trang phục thường ngày hoặc hoạt động câu lạc bộ.",
+      "material": "Cotton rib co giãn",
+      "care": "Giặt nhẹ bằng nước mát; tránh kéo giãn khi phơi",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/at-thu-03/1.webp",
+        "images/products/at-thu-03/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "AT-THU-03-HONG-PHAN-S",
+          "color": "Hồng phấn",
+          "hex": "#DDA3A9",
+          "size": "S",
+          "stock": 24
+        },
+        {
+          "sku": "AT-THU-03-HONG-PHAN-M",
+          "color": "Hồng phấn",
+          "hex": "#DDA3A9",
+          "size": "M",
+          "stock": 28
+        },
+        {
+          "sku": "AT-THU-03-HONG-PHAN-L",
+          "color": "Hồng phấn",
+          "hex": "#DDA3A9",
+          "size": "L",
+          "stock": 32
+        },
+        {
+          "sku": "AT-THU-03-HONG-PHAN-XL",
+          "color": "Hồng phấn",
+          "hex": "#DDA3A9",
+          "size": "XL",
+          "stock": 24
+        }
+      ]
+    },
+    {
+      "code": "AT-YEN-06",
+      "slug": "ao-thun-uel-knowledge-lines",
+      "name": "Áo thun UEL Knowledge Lines",
+      "price": 209000,
+      "description": "Áo thun màu kem dáng relaxed, cổ tròn và tay ngắn. Ngực trái thêu chữ UEL cùng ba đường kẻ navy; mặt sau in biểu tượng sách mở và chữ UEL. Mẫu tối giản phù hợp trang phục đi học hằng ngày.",
+      "material": "Cotton jersey 200gsm",
+      "care": "Lộn trái, giặt nhẹ bằng nước mát; không dùng thuốc tẩy, phơi trong bóng râm và không ủi trực tiếp lên hình thêu/in",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/at-yen-06/1.webp",
+        "images/products/at-yen-06/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "AT-YEN-06-TRANG-KEM-S",
+          "color": "Trắng kem",
+          "hex": "#F3ECDD",
+          "size": "S",
+          "stock": 20
+        },
+        {
+          "sku": "AT-YEN-06-TRANG-KEM-M",
+          "color": "Trắng kem",
+          "hex": "#F3ECDD",
+          "size": "M",
+          "stock": 30
+        },
+        {
+          "sku": "AT-YEN-06-TRANG-KEM-L",
+          "color": "Trắng kem",
+          "hex": "#F3ECDD",
+          "size": "L",
+          "stock": 30
+        },
+        {
+          "sku": "AT-YEN-06-TRANG-KEM-XL",
+          "color": "Trắng kem",
+          "hex": "#F3ECDD",
+          "size": "XL",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "AT-YEN-07",
+      "slug": "ao-thun-uel-campus-blue",
+      "name": "Áo thun UEL Campus Blue",
+      "price": 229000,
+      "description": "Áo thun oversize màu xanh da trời nhạt, vai rơi và cổ tròn bo gân. Mặt trước có chữ UEL trắng cùng ngôi sao nhỏ; mặt sau lặp lại nhận diện với kích thước lớn hơn. Mẫu mang phong cách trẻ trung và dễ phối.",
+      "material": "Cotton jersey 220gsm",
+      "care": "Giặt riêng lần đầu, lộn trái và giặt nước mát; tránh thuốc tẩy, sấy nóng và ủi trực tiếp lên hình thêu/in",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/at-yen-07/1.webp",
+        "images/products/at-yen-07/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "AT-YEN-07-XANH-DA-TROI-NHAT-S",
+          "color": "Xanh da trời nhạt",
+          "hex": "#87B4DC",
+          "size": "S",
+          "stock": 18
+        },
+        {
+          "sku": "AT-YEN-07-XANH-DA-TROI-NHAT-M",
+          "color": "Xanh da trời nhạt",
+          "hex": "#87B4DC",
+          "size": "M",
+          "stock": 28
+        },
+        {
+          "sku": "AT-YEN-07-XANH-DA-TROI-NHAT-L",
+          "color": "Xanh da trời nhạt",
+          "hex": "#87B4DC",
+          "size": "L",
+          "stock": 28
+        },
+        {
+          "sku": "AT-YEN-07-XANH-DA-TROI-NHAT-XL",
+          "color": "Xanh da trời nhạt",
+          "hex": "#87B4DC",
+          "size": "XL",
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "code": "AT-YEN-08",
+      "slug": "ao-thun-uel-open-book",
+      "name": "Áo thun UEL Open Book",
+      "price": 219000,
+      "description": "Áo thun xanh navy dáng regular với cổ tròn và tay ngắn. Ngực trái thêu biểu tượng sách mở cùng chữ UEL trắng; mặt sau sử dụng phiên bản lớn hơn của cùng họa tiết. Mẫu hướng đến hình ảnh học tập gọn gàng và hiện đại.",
+      "material": "Cotton jersey 210gsm",
+      "care": "Lộn trái trước khi giặt, dùng nước mát và chế độ nhẹ; không tẩy, phơi nơi thoáng mát và không ủi trực tiếp lên hình thêu/in",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/at-yen-08/1.webp",
+        "images/products/at-yen-08/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "AT-YEN-08-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "S",
+          "stock": 22
+        },
+        {
+          "sku": "AT-YEN-08-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "M",
+          "stock": 32
+        },
+        {
+          "sku": "AT-YEN-08-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "L",
+          "stock": 32
+        },
+        {
+          "sku": "AT-YEN-08-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "XL",
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "code": "MY-03",
+      "slug": "ao-oversize-uel-after-class",
+      "name": "Áo Oversize UEL After Class",
+      "price": 239000,
+      "description": "Áo oversize màu xanh than, vai trễ và hình in nhỏ sau lưng theo phong cách tối giản.",
+      "material": "Cotton 240gsm",
+      "care": "Lộn trái trước khi giặt; giặt với màu tương tự; không ủi trực tiếp lên hình in.",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-03/1.webp",
+        "images/products/my-03/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-03-XANH-THAN-S",
+          "color": "Xanh than",
+          "hex": "#26364D",
+          "size": "S",
+          "stock": 24
+        },
+        {
+          "sku": "MY-03-XANH-THAN-M",
+          "color": "Xanh than",
+          "hex": "#26364D",
+          "size": "M",
+          "stock": 28
+        },
+        {
+          "sku": "MY-03-XANH-THAN-L",
+          "color": "Xanh than",
+          "hex": "#26364D",
+          "size": "L",
+          "stock": 30
+        },
+        {
+          "sku": "MY-03-XANH-THAN-XL",
+          "color": "Xanh than",
+          "hex": "#26364D",
+          "size": "XL",
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "code": "MY-04",
+      "slug": "ao-oversize-uel-bold-ideas",
+      "name": "Áo Oversize UEL Bold Ideas",
+      "price": 249000,
+      "description": "Áo phom rộng màu xám khói, họa tiết typography trước ngực; phù hợp phong cách streetwear.",
+      "material": "Cotton pha polyester, 230gsm",
+      "care": "Giặt máy chế độ nhẹ với nước lạnh; lộn trái áo; tránh chất tẩy mạnh.",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-04/1.webp",
+        "images/products/my-04/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-04-XAM-KHOI-S",
+          "color": "Xám khói",
+          "hex": "#A7A9AC",
+          "size": "S",
+          "stock": 20
+        },
+        {
+          "sku": "MY-04-XAM-KHOI-M",
+          "color": "Xám khói",
+          "hex": "#A7A9AC",
+          "size": "M",
+          "stock": 24
+        },
+        {
+          "sku": "MY-04-XAM-KHOI-L",
+          "color": "Xám khói",
+          "hex": "#A7A9AC",
+          "size": "L",
+          "stock": 26
+        },
+        {
+          "sku": "MY-04-XAM-KHOI-XL",
+          "color": "Xám khói",
+          "hex": "#A7A9AC",
+          "size": "XL",
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "code": "MY-11",
+      "slug": "ao-thun-uel-focus-mode",
+      "name": "Áo thun UEL Focus Mode",
+      "price": 209000,
+      "description": "Áo thun màu trắng ngà với dòng chữ Focus Mode nhỏ trước ngực, phom regular dễ phối đồ.",
+      "material": "Cotton 100%, 220gsm",
+      "care": "Lộn trái áo trước khi giặt; giặt nước lạnh với màu tương tự; tránh ủi trực tiếp lên hình in.",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-11/1.webp",
+        "images/products/my-11/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-11-TRANG-S",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "S",
+          "stock": 26
+        },
+        {
+          "sku": "MY-11-TRANG-M",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "M",
+          "stock": 13
+        },
+        {
+          "sku": "MY-11-TRANG-L",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "L",
+          "stock": 31
+        },
+        {
+          "sku": "MY-11-TRANG-XL",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "XL",
+          "stock": 10
+        },
+        {
+          "sku": "MY-11-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "S",
+          "stock": 17
+        },
+        {
+          "sku": "MY-11-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "M",
+          "stock": 28
+        },
+        {
+          "sku": "MY-11-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "L",
+          "stock": 8
+        },
+        {
+          "sku": "MY-11-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "XL",
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "code": "MY-12",
+      "slug": "ao-thun-uel-think-beyond",
+      "name": "Áo thun UEL Think Beyond",
+      "price": 219000,
+      "description": "Áo thun xanh rêu có hình minh họa trừu tượng lấy cảm hứng từ tư duy sáng tạo và học tập.",
+      "material": "Cotton 100%, 230gsm",
+      "care": "Giặt máy chế độ nhẹ; lộn trái khi giặt; không dùng chất tẩy mạnh.",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-12/1.webp",
+        "images/products/my-12/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-12-TRANG-S",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "S",
+          "stock": 24
+        },
+        {
+          "sku": "MY-12-TRANG-M",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "M",
+          "stock": 32
+        },
+        {
+          "sku": "MY-12-TRANG-L",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "sku": "MY-12-TRANG-XL",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "XL",
+          "stock": 31
+        },
+        {
+          "sku": "MY-12-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "S",
+          "stock": 28
+        },
+        {
+          "sku": "MY-12-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "M",
+          "stock": 25
+        },
+        {
+          "sku": "MY-12-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "L",
+          "stock": 10
+        },
+        {
+          "sku": "MY-12-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "XL",
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "code": "MY-13",
+      "slug": "ao-thun-uel-little-wins",
+      "name": "Áo thun UEL Little Wins",
+      "price": 199000,
+      "description": "Áo thun màu xanh pastel với biểu tượng ngôi sao tối giản, hướng đến phong cách trẻ trung hằng ngày.",
+      "material": "Cotton pha spandex",
+      "care": "Giặt với nước lạnh; không vắt quá mạnh; phơi nơi thoáng mát.",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-13/1.webp",
+        "images/products/my-13/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-13-TRANG-S",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "S",
+          "stock": 24
+        },
+        {
+          "sku": "MY-13-TRANG-M",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "M",
+          "stock": 28
+        },
+        {
+          "sku": "MY-13-TRANG-L",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "L",
+          "stock": 24
+        },
+        {
+          "sku": "MY-13-TRANG-XL",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "XL",
+          "stock": 27
+        },
+        {
+          "sku": "MY-13-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "S",
+          "stock": 19
+        },
+        {
+          "sku": "MY-13-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "M",
+          "stock": 20
+        },
+        {
+          "sku": "MY-13-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "L",
+          "stock": 24
+        },
+        {
+          "sku": "MY-13-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "XL",
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "code": "MY-14",
+      "slug": "ao-thun-uel-creative-route",
+      "name": "Áo thun UEL Creative Route",
+      "price": 229000,
+      "description": "Áo thun đen wash nhẹ với đồ họa đường nét hình học ở mặt sau.",
+      "material": "Cotton, 240gsm",
+      "care": "Lộn trái áo; giặt riêng trong lần đầu; tránh sấy ở nhiệt độ cao.",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-14/1.webp",
+        "images/products/my-14/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-14-TRANG-S",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "S",
+          "stock": 32
+        },
+        {
+          "sku": "MY-14-TRANG-M",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "M",
+          "stock": 13
+        },
+        {
+          "sku": "MY-14-TRANG-L",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "L",
+          "stock": 23
+        },
+        {
+          "sku": "MY-14-TRANG-XL",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "XL",
+          "stock": 21
+        },
+        {
+          "sku": "MY-14-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "S",
+          "stock": 23
+        },
+        {
+          "sku": "MY-14-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "M",
+          "stock": 26
+        },
+        {
+          "sku": "MY-14-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "L",
+          "stock": 16
+        },
+        {
+          "sku": "MY-14-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "XL",
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "code": "MY-22",
+      "slug": "oversize-uel-make-it-happen",
+      "name": "Oversize UEL Make It Happen",
+      "price": 249000,
+      "description": "Áo oversize màu be cát với typography nhỏ trước ngực và đồ họa sau lưng.",
+      "material": "Cotton 240gsm",
+      "care": "Lộn trái áo khi giặt; giặt nước lạnh; không ủi trực tiếp lên hình in.",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-22/1.webp",
+        "images/products/my-22/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-22-KEM-NHAT-S",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "S",
+          "stock": 8
+        },
+        {
+          "sku": "MY-22-KEM-NHAT-M",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "M",
+          "stock": 21
+        },
+        {
+          "sku": "MY-22-KEM-NHAT-L",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "L",
+          "stock": 10
+        },
+        {
+          "sku": "MY-22-KEM-NHAT-XL",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "XL",
+          "stock": 17
+        },
+        {
+          "sku": "MY-22-XAM-SUONG-S",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "S",
+          "stock": 24
+        },
+        {
+          "sku": "MY-22-XAM-SUONG-M",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "M",
+          "stock": 13
+        },
+        {
+          "sku": "MY-22-XAM-SUONG-L",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "L",
+          "stock": 13
+        },
+        {
+          "sku": "MY-22-XAM-SUONG-XL",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "XL",
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "code": "MY-23",
+      "slug": "oversize-uel-blue-hour",
+      "name": "Oversize UEL Blue Hour",
+      "price": 259000,
+      "description": "Áo oversize xanh denim, vai trễ và hình in phong cảnh đường nét tối giản.",
+      "material": "Cotton pha polyester, 230gsm",
+      "care": "Giặt máy chế độ nhẹ; không dùng thuốc tẩy; phơi mặt trái áo.",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-23/1.webp",
+        "images/products/my-23/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-23-DEN-S",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "S",
+          "stock": 22
+        },
+        {
+          "sku": "MY-23-DEN-M",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "M",
+          "stock": 31
+        },
+        {
+          "sku": "MY-23-DEN-L",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "L",
+          "stock": 24
+        },
+        {
+          "sku": "MY-23-DEN-XL",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "XL",
+          "stock": 13
+        },
+        {
+          "sku": "MY-23-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "S",
+          "stock": 27
+        },
+        {
+          "sku": "MY-23-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "M",
+          "stock": 16
+        },
+        {
+          "sku": "MY-23-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "L",
+          "stock": 30
+        },
+        {
+          "sku": "MY-23-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "XL",
+          "stock": 21
+        }
+      ]
+    },
+    {
+      "code": "MY-24",
+      "slug": "oversize-uel-unplugged",
+      "name": "Oversize UEL Unplugged",
+      "price": 239000,
+      "description": "Áo oversize màu nâu đất với biểu tượng nhỏ ở tay áo, phù hợp phong cách streetwear.",
+      "material": "Cotton, 220gsm",
+      "care": "Giặt với màu tương tự; lộn trái áo; tránh sấy nhiệt cao.",
+      "sold": 0,
+      "category": "ao-thun",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-24/1.webp",
+        "images/products/my-24/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-24-DEN-S",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "S",
+          "stock": 25
+        },
+        {
+          "sku": "MY-24-DEN-M",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "M",
+          "stock": 11
+        },
+        {
+          "sku": "MY-24-DEN-L",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "L",
+          "stock": 28
+        },
+        {
+          "sku": "MY-24-DEN-XL",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "XL",
+          "stock": 15
+        },
+        {
+          "sku": "MY-24-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "S",
+          "stock": 17
+        },
+        {
+          "sku": "MY-24-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "M",
+          "stock": 13
+        },
+        {
+          "sku": "MY-24-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "L",
+          "stock": 29
+        },
+        {
+          "sku": "MY-24-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "XL",
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "code": "PO-THU-04",
+      "slug": "ao-polo-uel-campus-line",
+      "name": "Áo Polo UEL Campus Line",
+      "price": 249000,
+      "description": "Áo polo trắng phối cổ và bo tay xanh hoàng gia tạo cảm giác gọn gàng. Ngực áo thêu chữ UEL Campus Line cách điệu, thích hợp phối với quần tây hoặc jeans. Phù hợp cho trang phục học tập và sinh hoạt tại trường.",
+      "material": "Vải piqué cotton pha",
+      "care": "Giặt chế độ nhẹ; lộn trái khi giặt; không ủi trực tiếp lên hình thêu",
+      "sold": 0,
+      "category": "polo",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/po-thu-04/1.webp",
+        "images/products/po-thu-04/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PO-THU-04-TRANG-PHOI-XANH-S",
+          "color": "Trắng phối xanh",
+          "hex": "#F2F1ED",
+          "size": "S",
+          "stock": 50
+        },
+        {
+          "sku": "PO-THU-04-TRANG-PHOI-XANH-M",
+          "color": "Trắng phối xanh",
+          "hex": "#F2F1ED",
+          "size": "M",
+          "stock": 54
+        },
+        {
+          "sku": "PO-THU-04-TRANG-PHOI-XANH-L",
+          "color": "Trắng phối xanh",
+          "hex": "#F2F1ED",
+          "size": "L",
+          "stock": 58
+        },
+        {
+          "sku": "PO-THU-04-TRANG-PHOI-XANH-XL",
+          "color": "Trắng phối xanh",
+          "hex": "#F2F1ED",
+          "size": "XL",
+          "stock": 50
+        }
+      ]
+    },
+    {
+      "code": "PO-THU-05",
+      "slug": "ao-polo-uel-midnight",
+      "name": "Áo Polo UEL Midnight",
+      "price": 259000,
+      "description": "Áo polo xanh đen với đường viền màu bạc ở cổ và tay, tạo phong cách tối giản. Logo trăng khuyết và chữ UEL Midnight được đặt nhỏ trước ngực. Mẫu phù hợp với trang phục lịch sự thường ngày của sinh viên.",
+      "material": "Vải piqué cotton pha",
+      "care": "Giặt riêng đồ tối màu; phơi nơi râm mát; ủi nhiệt thấp",
+      "sold": 0,
+      "category": "polo",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/po-thu-05/1.webp",
+        "images/products/po-thu-05/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PO-THU-05-XANH-DEN-S",
+          "color": "Xanh đen",
+          "hex": "#1A2335",
+          "size": "S",
+          "stock": 36
+        },
+        {
+          "sku": "PO-THU-05-XANH-DEN-M",
+          "color": "Xanh đen",
+          "hex": "#1A2335",
+          "size": "M",
+          "stock": 40
+        },
+        {
+          "sku": "PO-THU-05-XANH-DEN-L",
+          "color": "Xanh đen",
+          "hex": "#1A2335",
+          "size": "L",
+          "stock": 44
+        },
+        {
+          "sku": "PO-THU-05-XANH-DEN-XL",
+          "color": "Xanh đen",
+          "hex": "#1A2335",
+          "size": "XL",
+          "stock": 36
+        }
+      ]
+    },
+    {
+      "code": "PL-YEN-22",
+      "slug": "ao-polo-uel-white-navy-classic",
+      "name": "Áo polo UEL White Navy Classic",
+      "price": 289000,
+      "description": "Áo polo trắng phối xanh navy ở cổ, vai và bo tay; chữ UEL nhỏ ở ngực.",
+      "material": "Cá sấu poly-cotton 65/35; co giãn nhẹ; định lượng khoảng 185 gsm",
+      "care": "Lộn trái trước khi giặt; giặt dưới 30°C; không tẩy; phơi ngang; ủi nhiệt thấp.",
+      "sold": 0,
+      "category": "polo",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/pl-yen-22/1.webp",
+        "images/products/pl-yen-22/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PL-YEN-22-TRANG-PHOI-XANH-NAVY-S",
+          "color": "Trắng phối xanh navy",
+          "hex": "#FFFFFF / #132B4F",
+          "size": "S",
+          "stock": 23
+        },
+        {
+          "sku": "PL-YEN-22-TRANG-PHOI-XANH-NAVY-M",
+          "color": "Trắng phối xanh navy",
+          "hex": "#FFFFFF / #132B4F",
+          "size": "M",
+          "stock": 26
+        },
+        {
+          "sku": "PL-YEN-22-TRANG-PHOI-XANH-NAVY-L",
+          "color": "Trắng phối xanh navy",
+          "hex": "#FFFFFF / #132B4F",
+          "size": "L",
+          "stock": 26
+        },
+        {
+          "sku": "PL-YEN-22-TRANG-PHOI-XANH-NAVY-XL",
+          "color": "Trắng phối xanh navy",
+          "hex": "#FFFFFF / #132B4F",
+          "size": "XL",
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "code": "PL-YEN-23",
+      "slug": "ao-polo-uel-navy-sky-panel",
+      "name": "Áo polo UEL Navy Sky Panel",
+      "price": 309000,
+      "description": "Áo polo xanh navy phối mảng xanh nhạt ở vai và thân bên, chữ UEL trắng ở ngực; phom unisex regular.",
+      "material": "Cá sấu poly-cotton 60/40; thấm hút nhanh; định lượng khoảng 190 gsm",
+      "care": "Giặt riêng lần đầu; lộn trái; giặt lạnh; không tẩy; không sấy nhiệt cao; ủi mặt trái.",
+      "sold": 0,
+      "category": "polo",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/pl-yen-23/1.webp",
+        "images/products/pl-yen-23/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PL-YEN-23-XANH-NAVY-PHOI-XANH-NHAT-S",
+          "color": "Xanh navy phối xanh nhạt",
+          "hex": "#142B4A / #8ECDEB",
+          "size": "S",
+          "stock": 19
+        },
+        {
+          "sku": "PL-YEN-23-XANH-NAVY-PHOI-XANH-NHAT-M",
+          "color": "Xanh navy phối xanh nhạt",
+          "hex": "#142B4A / #8ECDEB",
+          "size": "M",
+          "stock": 29
+        },
+        {
+          "sku": "PL-YEN-23-XANH-NAVY-PHOI-XANH-NHAT-L",
+          "color": "Xanh navy phối xanh nhạt",
+          "hex": "#142B4A / #8ECDEB",
+          "size": "L",
+          "stock": 29
+        },
+        {
+          "sku": "PL-YEN-23-XANH-NAVY-PHOI-XANH-NHAT-XL",
+          "color": "Xanh navy phối xanh nhạt",
+          "hex": "#142B4A / #8ECDEB",
+          "size": "XL",
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "code": "MY-15",
+      "slug": "ao-polo-uel-core-classic",
+      "name": "Áo Polo UEL Core Classic",
+      "price": 269000,
+      "description": "Polo màu kem với cổ áo xanh navy tương phản, phù hợp đi học và các hoạt động câu lạc bộ.",
+      "material": "Vải piqué cotton pha polyester",
+      "care": "Giặt chế độ nhẹ; giữ phom cổ bằng cách phơi trên móc; ủi nhiệt độ thấp.",
+      "sold": 0,
+      "category": "polo",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-15/1.webp",
+        "images/products/my-15/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-15-TRANG-S",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "S",
+          "stock": 19
+        },
+        {
+          "sku": "MY-15-TRANG-M",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "M",
+          "stock": 18
+        },
+        {
+          "sku": "MY-15-TRANG-L",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "L",
+          "stock": 17
+        },
+        {
+          "sku": "MY-15-TRANG-XL",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "XL",
+          "stock": 10
+        },
+        {
+          "sku": "MY-15-XANH-HOANG-GIA-S",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "sku": "MY-15-XANH-HOANG-GIA-M",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "M",
+          "stock": 21
+        },
+        {
+          "sku": "MY-15-XANH-HOANG-GIA-L",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "sku": "MY-15-XANH-HOANG-GIA-XL",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "XL",
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "code": "MY-16",
+      "slug": "ao-polo-uel-blue-horizon",
+      "name": "Áo Polo UEL Blue Horizon",
+      "price": 279000,
+      "description": "Polo xanh dương đậm với logo thêu nhỏ trên ngực trái và đường viền tay áo tinh tế.",
+      "material": "Vải piqué cotton pha",
+      "care": "Giặt với màu tương tự; tránh chất tẩy mạnh; không ủi trực tiếp lên logo.",
+      "sold": 0,
+      "category": "polo",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-16/1.webp",
+        "images/products/my-16/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-16-TRANG-S",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "S",
+          "stock": 17
+        },
+        {
+          "sku": "MY-16-TRANG-M",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "M",
+          "stock": 31
+        },
+        {
+          "sku": "MY-16-TRANG-L",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "L",
+          "stock": 24
+        },
+        {
+          "sku": "MY-16-TRANG-XL",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "XL",
+          "stock": 13
+        },
+        {
+          "sku": "MY-16-XANH-HOANG-GIA-S",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "S",
+          "stock": 12
+        },
+        {
+          "sku": "MY-16-XANH-HOANG-GIA-M",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "M",
+          "stock": 16
+        },
+        {
+          "sku": "MY-16-XANH-HOANG-GIA-L",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "L",
+          "stock": 10
+        },
+        {
+          "sku": "MY-16-XANH-HOANG-GIA-XL",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "XL",
+          "stock": 19
+        }
+      ]
+    },
+    {
+      "code": "MY-17",
+      "slug": "ao-polo-uel-everyday-form",
+      "name": "Áo Polo UEL Everyday Form",
+      "price": 259000,
+      "description": "Polo màu xám nhạt, phom regular và thiết kế tối giản để sử dụng thường ngày.",
+      "material": "Cotton pha polyester",
+      "care": "Giặt nước lạnh; lộn trái trước khi giặt; phơi nơi thoáng mát.",
+      "sold": 0,
+      "category": "polo",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-17/1.webp",
+        "images/products/my-17/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-17-TRANG-S",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "S",
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "code": "MY-18",
+      "slug": "ao-polo-uel-team-spirit",
+      "name": "Áo Polo UEL Team Spirit",
+      "price": 289000,
+      "description": "Polo màu đỏ đô với chi tiết sọc nhỏ ở cổ, phù hợp cho hoạt động nhóm và sự kiện sinh viên.",
+      "material": "Vải piqué cotton pha",
+      "care": "Giặt riêng với đồ sáng màu lần đầu; giặt chế độ nhẹ; tránh sấy nhiệt cao.",
+      "sold": 0,
+      "category": "polo",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-18/1.webp",
+        "images/products/my-18/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-18-XL",
+          "color": "",
+          "hex": "#FFFFFF",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "sku": "MY-18-TRANG-M",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "M",
+          "stock": 29
+        },
+        {
+          "sku": "MY-18-TRANG-L",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "L",
+          "stock": 26
+        },
+        {
+          "sku": "MY-18-XANH-HOANG-GIA-S",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "S",
+          "stock": 25
+        },
+        {
+          "sku": "MY-18-XANH-HOANG-GIA-M",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "M",
+          "stock": 17
+        },
+        {
+          "sku": "MY-18-XANH-HOANG-GIA-L",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "L",
+          "stock": 18
+        },
+        {
+          "sku": "MY-18-XANH-HOANG-GIA-XL",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "XL",
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "code": "SM-YEN-11",
+      "slug": "ao-so-mi-uel-royal-line",
+      "name": "Áo sơ mi UEL Royal Line",
+      "price": 329000,
+      "description": "Áo sơ mi trắng phối xanh royal ở vai và nẹp; phom regular, tay ngắn, phù hợp đồng phục sự kiện và sinh hoạt câu lạc bộ.",
+      "material": "Poplin 65% cotton, 35% polyester; định lượng khoảng 125 gsm",
+      "care": "Giặt máy chế độ nhẹ dưới 30°C; giặt cùng màu; không dùng chất tẩy clo; ủi nhiệt thấp; không sấy nhiệt cao.",
+      "sold": 0,
+      "category": "ao-so-mi",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/sm-yen-11/1.webp",
+        "images/products/sm-yen-11/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "SM-YEN-11-TRANG-PHOI-XANH-ROYAL-S",
+          "color": "Trắng phối xanh royal",
+          "hex": "#FFFFFF / #0057B8",
+          "size": "S",
+          "stock": 18
+        },
+        {
+          "sku": "SM-YEN-11-TRANG-PHOI-XANH-ROYAL-M",
+          "color": "Trắng phối xanh royal",
+          "hex": "#FFFFFF / #0057B8",
+          "size": "M",
+          "stock": 28
+        },
+        {
+          "sku": "SM-YEN-11-TRANG-PHOI-XANH-ROYAL-L",
+          "color": "Trắng phối xanh royal",
+          "hex": "#FFFFFF / #0057B8",
+          "size": "L",
+          "stock": 28
+        },
+        {
+          "sku": "SM-YEN-11-TRANG-PHOI-XANH-ROYAL-XL",
+          "color": "Trắng phối xanh royal",
+          "hex": "#FFFFFF / #0057B8",
+          "size": "XL",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "SM-YEN-12",
+      "slug": "ao-so-mi-uel-powder-oxford",
+      "name": "Áo sơ mi UEL Powder Oxford",
+      "price": 339000,
+      "description": "Áo sơ mi xanh phấn tối giản, cổ bẻ gọn, logo chữ UEL nhỏ ở ngực; phom unisex regular cho học tập và hoạt động campus.",
+      "material": "Oxford 60% cotton, 40% polyester; định lượng khoảng 145 gsm",
+      "care": "Giặt máy chế độ nhẹ dưới 30°C; lộn trái khi giặt; không ngâm lâu; phơi nơi thoáng mát; ủi nhiệt vừa.",
+      "sold": 0,
+      "category": "ao-so-mi",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/sm-yen-12/1.webp",
+        "images/products/sm-yen-12/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "SM-YEN-12-XANH-PHAN-S",
+          "color": "Xanh phấn",
+          "hex": "#BFD7EA",
+          "size": "S",
+          "stock": 21
+        },
+        {
+          "sku": "SM-YEN-12-XANH-PHAN-M",
+          "color": "Xanh phấn",
+          "hex": "#BFD7EA",
+          "size": "M",
+          "stock": 31
+        },
+        {
+          "sku": "SM-YEN-12-XANH-PHAN-L",
+          "color": "Xanh phấn",
+          "hex": "#BFD7EA",
+          "size": "L",
+          "stock": 24
+        },
+        {
+          "sku": "SM-YEN-12-XANH-PHAN-XL",
+          "color": "Xanh phấn",
+          "hex": "#BFD7EA",
+          "size": "XL",
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "code": "SM-YEN-13",
+      "slug": "ao-so-mi-uel-cream-camp",
+      "name": "Áo sơ mi UEL Cream Camp",
+      "price": 319000,
+      "description": "Áo sơ mi cổ camp màu kem, thêu chữ UEL xanh navy ở ngực; phom relaxed, thích hợp mặc hằng ngày trong khuôn viên trường.",
+      "material": "Vải rayon pha cotton 55/45; bề mặt mềm, thoáng",
+      "care": "Ưu tiên giặt tay hoặc túi giặt ở 30°C; không vắt xoắn; phơi ngang; ủi mặt trái ở nhiệt thấp.",
+      "sold": 0,
+      "category": "ao-so-mi",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/sm-yen-13/1.webp",
+        "images/products/sm-yen-13/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "SM-YEN-13-KEM-S",
+          "color": "Kem",
+          "hex": "#F1E6D0",
+          "size": "S",
+          "stock": 24
+        },
+        {
+          "sku": "SM-YEN-13-KEM-M",
+          "color": "Kem",
+          "hex": "#F1E6D0",
+          "size": "M",
+          "stock": 27
+        },
+        {
+          "sku": "SM-YEN-13-KEM-L",
+          "color": "Kem",
+          "hex": "#F1E6D0",
+          "size": "L",
+          "stock": 27
+        },
+        {
+          "sku": "SM-YEN-13-KEM-XL",
+          "color": "Kem",
+          "hex": "#F1E6D0",
+          "size": "XL",
+          "stock": 19
+        }
+      ]
+    },
+    {
+      "code": "SM-YEN-14",
+      "slug": "ao-so-mi-uel-navy-piping",
+      "name": "Áo sơ mi UEL Navy Piping",
+      "price": 349000,
+      "description": "Áo sơ mi xanh navy với đường viền xanh nhạt ở cổ và tay, chữ UEL nhỏ ở ngực; phom regular hiện đại.",
+      "material": "Poplin 70% cotton, 30% polyester; chống nhăn nhẹ",
+      "care": "Giặt riêng lần đầu; giặt lạnh; không dùng chất tẩy; phơi mặt trái; ủi nhiệt thấp.",
+      "sold": 0,
+      "category": "ao-so-mi",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/sm-yen-14/1.webp",
+        "images/products/sm-yen-14/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "SM-YEN-14-XANH-NAVY-PHOI-XANH-NHAT-S",
+          "color": "Xanh navy phối xanh nhạt",
+          "hex": "#12345B / #8CC9E8",
+          "size": "S",
+          "stock": 20
+        },
+        {
+          "sku": "SM-YEN-14-XANH-NAVY-PHOI-XANH-NHAT-M",
+          "color": "Xanh navy phối xanh nhạt",
+          "hex": "#12345B / #8CC9E8",
+          "size": "M",
+          "stock": 30
+        },
+        {
+          "sku": "SM-YEN-14-XANH-NAVY-PHOI-XANH-NHAT-L",
+          "color": "Xanh navy phối xanh nhạt",
+          "hex": "#12345B / #8CC9E8",
+          "size": "L",
+          "stock": 30
+        },
+        {
+          "sku": "SM-YEN-14-XANH-NAVY-PHOI-XANH-NHAT-XL",
+          "color": "Xanh navy phối xanh nhạt",
+          "hex": "#12345B / #8CC9E8",
+          "size": "XL",
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "code": "SM-YEN-15",
+      "slug": "ao-so-mi-uel-band-collar",
+      "name": "Áo sơ mi UEL Band Collar",
+      "price": 329000,
+      "description": "Áo sơ mi cổ trụ trắng, hai đường nẹp xanh navy chạy dọc thân trước, chữ UEL tinh gọn; phom unisex regular.",
+      "material": "Poplin 65% cotton, 35% polyester; định lượng khoảng 130 gsm",
+      "care": "Giặt máy chế độ nhẹ dưới 30°C; không tẩy; phơi bằng móc; ủi nhiệt vừa, tránh ủi trực tiếp lên hình in.",
+      "sold": 0,
+      "category": "ao-so-mi",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/sm-yen-15/1.webp",
+        "images/products/sm-yen-15/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "SM-YEN-15-TRANG-PHOI-XANH-NAVY-S",
+          "color": "Trắng phối xanh navy",
+          "hex": "#FFFFFF / #122A4D",
+          "size": "S",
+          "stock": 23
+        },
+        {
+          "sku": "SM-YEN-15-TRANG-PHOI-XANH-NAVY-M",
+          "color": "Trắng phối xanh navy",
+          "hex": "#FFFFFF / #122A4D",
+          "size": "M",
+          "stock": 26
+        },
+        {
+          "sku": "SM-YEN-15-TRANG-PHOI-XANH-NAVY-L",
+          "color": "Trắng phối xanh navy",
+          "hex": "#FFFFFF / #122A4D",
+          "size": "L",
+          "stock": 26
+        },
+        {
+          "sku": "SM-YEN-15-TRANG-PHOI-XANH-NAVY-XL",
+          "color": "Trắng phối xanh navy",
+          "hex": "#FFFFFF / #122A4D",
+          "size": "XL",
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "code": "HD-THU-06",
+      "slug": "hoodie-uel-skyline",
+      "name": "Hoodie UEL Skyline",
+      "price": 359000,
+      "description": "Hoodie form rộng màu xám khói với hình line-art khuôn viên trường cách điệu. Áo có túi kangaroo và mũ trùm, phần lưng in đồ họa Skyline. Dành cho những ngày trời mát hoặc hoạt động ngoài trời.",
+      "material": "Nỉ cotton pha",
+      "care": "Giặt nhẹ, không dùng thuốc tẩy; phơi ngang nếu có thể",
+      "sold": 0,
+      "category": "hoodie",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/hd-thu-06/1.webp",
+        "images/products/hd-thu-06/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "HD-THU-06-XAM-KHOI-S",
+          "color": "Xám khói",
+          "hex": "#B8B9BB",
+          "size": "S",
+          "stock": 29
+        },
+        {
+          "sku": "HD-THU-06-XAM-KHOI-M",
+          "color": "Xám khói",
+          "hex": "#B8B9BB",
+          "size": "M",
+          "stock": 33
+        },
+        {
+          "sku": "HD-THU-06-XAM-KHOI-L",
+          "color": "Xám khói",
+          "hex": "#B8B9BB",
+          "size": "L",
+          "stock": 37
+        },
+        {
+          "sku": "HD-THU-06-XAM-KHOI-XL",
+          "color": "Xám khói",
+          "hex": "#B8B9BB",
+          "size": "XL",
+          "stock": 29
+        }
+      ]
+    },
+    {
+      "code": "HD-YEN-24",
+      "slug": "hoodie-uel-campus-core",
+      "name": "Hoodie UEL Campus Core",
+      "price": 369000,
+      "description": "Hoodie oversize màu xám khói, dây rút xanh navy và túi kangaroo. Ngực trái thêu chữ UEL nhỏ; mặt sau thêu chữ UEL phong cách collegiate cỡ lớn.",
+      "material": "Nỉ cotton pha polyester, mặt trong chải lông mềm; định lượng khoảng 320 gsm",
+      "care": "Lộn trái trước khi giặt; giặt nước mát ở chế độ nhẹ; không dùng thuốc tẩy; phơi ngang và không ủi trực tiếp lên hình thêu",
+      "sold": 0,
+      "category": "hoodie",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/hd-yen-24/1.webp",
+        "images/products/hd-yen-24/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "HD-YEN-24-XAM-KHOI-PHOI-XANH-NAVY-S",
+          "color": "Xám khói phối xanh navy",
+          "hex": "#B8B9BB / #182849",
+          "size": "S",
+          "stock": 20
+        },
+        {
+          "sku": "HD-YEN-24-XAM-KHOI-PHOI-XANH-NAVY-M",
+          "color": "Xám khói phối xanh navy",
+          "hex": "#B8B9BB / #182849",
+          "size": "M",
+          "stock": 30
+        },
+        {
+          "sku": "HD-YEN-24-XAM-KHOI-PHOI-XANH-NAVY-L",
+          "color": "Xám khói phối xanh navy",
+          "hex": "#B8B9BB / #182849",
+          "size": "L",
+          "stock": 28
+        },
+        {
+          "sku": "HD-YEN-24-XAM-KHOI-PHOI-XANH-NAVY-XL",
+          "color": "Xám khói phối xanh navy",
+          "hex": "#B8B9BB / #182849",
+          "size": "XL",
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "code": "SW-YEN-25",
+      "slug": "ao-sweater-uel-academic-club",
+      "name": "Áo sweater UEL Academic Club",
+      "price": 349000,
+      "description": "Áo sweater cổ tròn màu kem, phối cổ và cổ tay xanh royal. Mặt trước thêu nổi chữ UEL; mặt sau có chữ UEL nhỏ dưới cổ.",
+      "material": "Len cotton pha acrylic mềm, bo gân cổ và tay áo",
+      "care": "Giặt tay hoặc dùng túi giặt với nước mát; không vắt xoắn; phơi ngang; ủi hơi nước ở nhiệt thấp",
+      "sold": 0,
+      "category": "hoodie",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/sw-yen-25/1.webp",
+        "images/products/sw-yen-25/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "SW-YEN-25-KEM-PHOI-XANH-ROYAL-S",
+          "color": "Kem phối xanh royal",
+          "hex": "#F2E8D5 / #0057B8",
+          "size": "S",
+          "stock": 18
+        },
+        {
+          "sku": "SW-YEN-25-KEM-PHOI-XANH-ROYAL-M",
+          "color": "Kem phối xanh royal",
+          "hex": "#F2E8D5 / #0057B8",
+          "size": "M",
+          "stock": 28
+        },
+        {
+          "sku": "SW-YEN-25-KEM-PHOI-XANH-ROYAL-L",
+          "color": "Kem phối xanh royal",
+          "hex": "#F2E8D5 / #0057B8",
+          "size": "L",
+          "stock": 26
+        },
+        {
+          "sku": "SW-YEN-25-KEM-PHOI-XANH-ROYAL-XL",
+          "color": "Kem phối xanh royal",
+          "hex": "#F2E8D5 / #0057B8",
+          "size": "XL",
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "code": "MY-09",
+      "slug": "hoodie-uel-quiet-hours",
+      "name": "Hoodie UEL Quiet Hours",
+      "price": 399000,
+      "description": "Hoodie màu tím than, túi kangaroo phía trước và logo thêu nhỏ; phù hợp những ngày học tập dài.",
+      "material": "Cotton pha polyester, nỉ da cá",
+      "care": "Lộn trái áo trước khi giặt; giặt nước lạnh; phơi tự nhiên và tránh ủi trực tiếp lên logo.",
+      "sold": 0,
+      "category": "hoodie",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-09/1.webp",
+        "images/products/my-09/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-09-TIM-THAN-S",
+          "color": "Tím than",
+          "hex": "#39364F",
+          "size": "S",
+          "stock": 18
+        },
+        {
+          "sku": "MY-09-TIM-THAN-M",
+          "color": "Tím than",
+          "hex": "#39364F",
+          "size": "M",
+          "stock": 22
+        },
+        {
+          "sku": "MY-09-TIM-THAN-L",
+          "color": "Tím than",
+          "hex": "#39364F",
+          "size": "L",
+          "stock": 24
+        },
+        {
+          "sku": "MY-09-TIM-THAN-XL",
+          "color": "Tím than",
+          "hex": "#39364F",
+          "size": "XL",
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "code": "MY-10",
+      "slug": "hoodie-uel-weekend-mode",
+      "name": "Hoodie UEL Weekend Mode",
+      "price": 419000,
+      "description": "Hoodie màu xanh sage với phom relaxed, dây rút đồng màu và hình in nhỏ ở tay áo.",
+      "material": "Cotton pha polyester, nỉ bông nhẹ",
+      "care": "Giặt riêng với đồ sáng màu trong lần đầu; chọn chế độ nhẹ; không sấy ở nhiệt độ cao.",
+      "sold": 0,
+      "category": "hoodie",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-10/1.webp",
+        "images/products/my-10/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-10-XANH-SAGE-S",
+          "color": "Xanh sage",
+          "hex": "#A8B7A0",
+          "size": "S",
+          "stock": 16
+        },
+        {
+          "sku": "MY-10-XANH-SAGE-M",
+          "color": "Xanh sage",
+          "hex": "#A8B7A0",
+          "size": "M",
+          "stock": 20
+        },
+        {
+          "sku": "MY-10-XANH-SAGE-L",
+          "color": "Xanh sage",
+          "hex": "#A8B7A0",
+          "size": "L",
+          "stock": 22
+        },
+        {
+          "sku": "MY-10-XANH-SAGE-XL",
+          "color": "Xanh sage",
+          "hex": "#A8B7A0",
+          "size": "XL",
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "code": "MY-25",
+      "slug": "hoodie-uel-deep-focus",
+      "name": "Hoodie UEL Deep Focus",
+      "price": 409000,
+      "description": "Hoodie màu xanh cobalt, túi kangaroo và logo thêu nhỏ ở ngực.",
+      "material": "Cotton pha polyester, nỉ da cá",
+      "care": "Lộn trái áo; giặt nước lạnh; không ủi trực tiếp lên phần thêu.",
+      "sold": 0,
+      "category": "hoodie",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-25/1.webp",
+        "images/products/my-25/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-25-DEN-S",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "sku": "MY-25-DEN-M",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "M",
+          "stock": 25
+        },
+        {
+          "sku": "MY-25-DEN-L",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "L",
+          "stock": 25
+        },
+        {
+          "sku": "MY-25-DEN-XL",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "XL",
+          "stock": 12
+        },
+        {
+          "sku": "MY-25-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "S",
+          "stock": 29
+        },
+        {
+          "sku": "MY-25-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "M",
+          "stock": 32
+        },
+        {
+          "sku": "MY-25-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "L",
+          "stock": 29
+        },
+        {
+          "sku": "MY-25-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "XL",
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "code": "MY-26",
+      "slug": "hoodie-uel-rainy-campus",
+      "name": "Hoodie UEL Rainy Campus",
+      "price": 419000,
+      "description": "Hoodie màu xám xanh với hình minh họa mái hiên và dòng chữ Rainy Campus.",
+      "material": "Cotton pha polyester, nỉ bông nhẹ",
+      "care": "Giặt chế độ nhẹ; kéo khóa hoặc buộc dây gọn trước khi giặt; tránh sấy nóng.",
+      "sold": 0,
+      "category": "hoodie",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-26/1.webp",
+        "images/products/my-26/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-26-XAM-MELANGE-S",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "S",
+          "stock": 28
+        },
+        {
+          "sku": "MY-26-XAM-MELANGE-M",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "M",
+          "stock": 32
+        },
+        {
+          "sku": "MY-26-XAM-MELANGE-L",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "L",
+          "stock": 21
+        },
+        {
+          "sku": "MY-26-XAM-MELANGE-XL",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "XL",
+          "stock": 25
+        },
+        {
+          "sku": "MY-26-XANH-REU-S",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "S",
+          "stock": 27
+        },
+        {
+          "sku": "MY-26-XANH-REU-M",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "M",
+          "stock": 16
+        },
+        {
+          "sku": "MY-26-XANH-REU-L",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "L",
+          "stock": 17
+        },
+        {
+          "sku": "MY-26-XANH-REU-XL",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "XL",
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "code": "MY-27",
+      "slug": "hoodie-uel-slow-weekend",
+      "name": "Hoodie UEL Slow Weekend",
+      "price": 399000,
+      "description": "Hoodie màu kem yến mạch, phom relaxed và chi tiết logo nhỏ ở cổ tay.",
+      "material": "Cotton pha polyester",
+      "care": "Giặt riêng với màu đậm lần đầu; giặt nước lạnh; phơi tự nhiên.",
+      "sold": 0,
+      "category": "hoodie",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-27/1.webp",
+        "images/products/my-27/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-27-XAM-MELANGE-S",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "S",
+          "stock": 14
+        },
+        {
+          "sku": "MY-27-XAM-MELANGE-M",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "M",
+          "stock": 31
+        },
+        {
+          "sku": "MY-27-XAM-MELANGE-L",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "L",
+          "stock": 32
+        },
+        {
+          "sku": "MY-27-XAM-MELANGE-XL",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "XL",
+          "stock": 12
+        },
+        {
+          "sku": "MY-27-XANH-REU-S",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "S",
+          "stock": 29
+        },
+        {
+          "sku": "MY-27-XANH-REU-M",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "M",
+          "stock": 24
+        },
+        {
+          "sku": "MY-27-XANH-REU-L",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "L",
+          "stock": 25
+        },
+        {
+          "sku": "MY-27-XANH-REU-XL",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "XL",
+          "stock": 29
+        }
+      ]
+    },
+    {
+      "code": "CD-YEN-26",
+      "slug": "cardigan-uel-varsity-knit",
+      "name": "Cardigan UEL Varsity Knit",
+      "price": 389000,
+      "description": "Cardigan xanh navy phối kem, cổ chữ V và hàng nút cài trước. Ngực trái và tay áo thêu chữ UEL nhỏ; mặt sau có chữ UEL màu kem.",
+      "material": "Len cotton pha acrylic, nút nhựa mờ và bo gân dệt sọc",
+      "care": "Giặt tay bằng nước mát; không ngâm lâu hoặc vắt xoắn; phơi ngang để giữ phom; không sấy nóng",
+      "sold": 0,
+      "category": "cardigan",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/cd-yen-26/1.webp",
+        "images/products/cd-yen-26/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "CD-YEN-26-XANH-NAVY-PHOI-KEM-S",
+          "color": "Xanh navy phối kem",
+          "hex": "#182849 / #F2E8D5",
+          "size": "S",
+          "stock": 16
+        },
+        {
+          "sku": "CD-YEN-26-XANH-NAVY-PHOI-KEM-M",
+          "color": "Xanh navy phối kem",
+          "hex": "#182849 / #F2E8D5",
+          "size": "M",
+          "stock": 24
+        },
+        {
+          "sku": "CD-YEN-26-XANH-NAVY-PHOI-KEM-L",
+          "color": "Xanh navy phối kem",
+          "hex": "#182849 / #F2E8D5",
+          "size": "L",
+          "stock": 22
+        },
+        {
+          "sku": "CD-YEN-26-XANH-NAVY-PHOI-KEM-XL",
+          "color": "Xanh navy phối kem",
+          "hex": "#182849 / #F2E8D5",
+          "size": "XL",
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "code": "MY-01",
+      "slug": "ao-cardigan-uel-cloud-knit",
+      "name": "Áo Cardigan UEL Cloud Knit",
+      "price": 329000,
+      "description": "Áo cardigan dáng vừa, tông kem nhạt, hàng nút tối giản; phù hợp phối cùng áo thun và quần jeans.",
+      "material": "Len acrylic pha cotton, dệt kim mềm",
+      "care": "Giặt tay hoặc giặt máy chế độ nhẹ trong túi giặt; không vắt mạnh; phơi ngang.",
+      "sold": 0,
+      "category": "cardigan",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-01/1.webp",
+        "images/products/my-01/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-01-KEM-NHAT-S",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "S",
+          "stock": 18
+        },
+        {
+          "sku": "MY-01-KEM-NHAT-M",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "M",
+          "stock": 22
+        },
+        {
+          "sku": "MY-01-KEM-NHAT-L",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "L",
+          "stock": 24
+        },
+        {
+          "sku": "MY-01-KEM-NHAT-XL",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "XL",
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "code": "MY-02",
+      "slug": "ao-cardigan-uel-autumn-layer",
+      "name": "Áo Cardigan UEL Autumn Layer",
+      "price": 359000,
+      "description": "Cardigan dáng rộng nhẹ màu nâu mocha, tay dài và túi trước; thích hợp mặc layer khi đi học.",
+      "material": "Sợi polyester pha viscose, dệt gân",
+      "care": "Giặt riêng lần đầu; dùng nước lạnh và chất giặt dịu nhẹ; tránh sấy nhiệt cao.",
+      "sold": 0,
+      "category": "cardigan",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-02/1.webp",
+        "images/products/my-02/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-02-NAU-MOCHA-S",
+          "color": "Nâu mocha",
+          "hex": "#806653",
+          "size": "S",
+          "stock": 16
+        },
+        {
+          "sku": "MY-02-NAU-MOCHA-M",
+          "color": "Nâu mocha",
+          "hex": "#806653",
+          "size": "M",
+          "stock": 20
+        },
+        {
+          "sku": "MY-02-NAU-MOCHA-L",
+          "color": "Nâu mocha",
+          "hex": "#806653",
+          "size": "L",
+          "stock": 22
+        },
+        {
+          "sku": "MY-02-NAU-MOCHA-XL",
+          "color": "Nâu mocha",
+          "hex": "#806653",
+          "size": "XL",
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "code": "MY-19",
+      "slug": "cardigan-uel-soft-morning",
+      "name": "Cardigan UEL Soft Morning",
+      "price": 339000,
+      "description": "Cardigan màu xanh sương, dệt gân nhẹ, hàng nút cùng tông và phom relaxed.",
+      "material": "Sợi acrylic pha cotton",
+      "care": "Giặt tay hoặc chế độ len; không vắt xoắn; phơi ngang để giữ phom.",
+      "sold": 0,
+      "category": "cardigan",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-19/1.webp",
+        "images/products/my-19/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-19-TRANG-S",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "sku": "MY-19-TRANG-M",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "sku": "MY-19-TRANG-L",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "L",
+          "stock": 20
+        },
+        {
+          "sku": "MY-19-TRANG-XL",
+          "color": "Trắng",
+          "hex": "#FFFFFF",
+          "size": "XL",
+          "stock": 14
+        },
+        {
+          "sku": "MY-19-XANH-HOANG-GIA-S",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "S",
+          "stock": 10
+        },
+        {
+          "sku": "MY-19-XANH-HOANG-GIA-M",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "M",
+          "stock": 23
+        },
+        {
+          "sku": "MY-19-XANH-HOANG-GIA-L",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "L",
+          "stock": 23
+        },
+        {
+          "sku": "MY-19-XANH-HOANG-GIA-XL",
+          "color": "Xanh hoàng gia",
+          "hex": "#2455A4",
+          "size": "XL",
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "code": "MY-20",
+      "slug": "cardigan-uel-library-date",
+      "name": "Cardigan UEL Library Date",
+      "price": 349000,
+      "description": "Cardigan màu đỏ gạch trầm với túi trước nhỏ, phù hợp phối cùng áo thun trơn.",
+      "material": "Sợi viscose pha polyester",
+      "care": "Giặt nước lạnh ở chế độ nhẹ; cài nút trước khi giặt; tránh treo khi áo còn ướt.",
+      "sold": 0,
+      "category": "cardigan",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-20/1.webp",
+        "images/products/my-20/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-20-KEM-NHAT-S",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "S",
+          "stock": 32
+        },
+        {
+          "sku": "MY-20-KEM-NHAT-M",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "M",
+          "stock": 25
+        },
+        {
+          "sku": "MY-20-KEM-NHAT-L",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "L",
+          "stock": 11
+        },
+        {
+          "sku": "MY-20-KEM-NHAT-XL",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "XL",
+          "stock": 25
+        },
+        {
+          "sku": "MY-20-XAM-SUONG-S",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "sku": "MY-20-XAM-SUONG-M",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "M",
+          "stock": 29
+        },
+        {
+          "sku": "MY-20-XAM-SUONG-L",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "L",
+          "stock": 23
+        },
+        {
+          "sku": "MY-20-XAM-SUONG-XL",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "XL",
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "code": "MY-21",
+      "slug": "cardigan-uel-misty-grey",
+      "name": "Cardigan UEL Misty Grey",
+      "price": 329000,
+      "description": "Cardigan xám bạc dáng vừa, thiết kế tối giản cho phong cách layering hằng ngày.",
+      "material": "Sợi acrylic, dệt kim mềm",
+      "care": "Giặt riêng với đồ dễ xù; dùng túi giặt; phơi ngang và tránh ánh nắng gắt.",
+      "sold": 0,
+      "category": "cardigan",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/my-21/1.webp",
+        "images/products/my-21/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-21-KEM-NHAT-M",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "M",
+          "stock": 30
+        },
+        {
+          "sku": "MY-21-KEM-NHAT-L",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "L",
+          "stock": 30
+        },
+        {
+          "sku": "MY-21-KEM-NHAT-XL",
+          "color": "Kem nhạt",
+          "hex": "#F0E6D8",
+          "size": "XL",
+          "stock": 31
+        },
+        {
+          "sku": "MY-21-XAM-SUONG-S",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "S",
+          "stock": 15
+        },
+        {
+          "sku": "MY-21-XAM-SUONG-M",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "M",
+          "stock": 8
+        },
+        {
+          "sku": "MY-21-XAM-SUONG-L",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "sku": "MY-21-XAM-SUONG-XL",
+          "color": "Xám sương",
+          "hex": "#C8CDD2",
+          "size": "XL",
+          "stock": 24
+        }
+      ]
+    },
+    {
+      "code": "AK-THU-07",
+      "slug": "ao-khoac-uel-varsity-light",
+      "name": "Áo khoác UEL Varsity Light",
+      "price": 389000,
+      "description": "Mẫu áo khoác khóa kéo xanh navy phối tay xanh sáng và viền kem theo phong cách varsity. Hình chữ UEL Varsity Light ở trước ngực và thông điệp Move With UEL ở lưng. Thiết kế có túi bên và bo gấu đàn hồi.",
+      "material": "Vải nylon mỏng",
+      "care": "Giặt tay hoặc giặt máy nhẹ; không sấy nhiệt cao",
+      "sold": 0,
+      "category": "ao-khoac",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/ak-thu-07/1.webp",
+        "images/products/ak-thu-07/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "AK-THU-07-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#1B2945",
+          "size": "S",
+          "stock": 26
+        },
+        {
+          "sku": "AK-THU-07-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#1B2945",
+          "size": "M",
+          "stock": 30
+        },
+        {
+          "sku": "AK-THU-07-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#1B2945",
+          "size": "L",
+          "stock": 34
+        },
+        {
+          "sku": "AK-THU-07-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#1B2945",
+          "size": "XL",
+          "stock": 26
+        }
+      ]
+    },
+    {
+      "code": "AK-YEN-05",
+      "slug": "ao-khoac-gio-uel-campus-wind",
+      "name": "Áo khoác gió UEL Campus Wind",
+      "price": 399000,
+      "description": "Áo khoác gió xanh navy phối viền trắng mảnh, có mũ trùm và khóa kéo trước. Tay áo không bo chun, phom regular unisex; chữ UEL nhỏ ở ngực và tên trường ở mặt sau.",
+      "material": "Nylon chống gió pha polyester, lót lưới thoáng khí",
+      "care": "Giặt tay hoặc giặt máy chế độ nhẹ dưới 30°C; không dùng thuốc tẩy; không sấy nhiệt cao; phơi nơi thoáng mát",
+      "sold": 0,
+      "category": "ao-khoac",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/ak-yen-05/1.webp",
+        "images/products/ak-yen-05/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "AK-YEN-05-XANH-NAVY-PHOI-TRANG-S",
+          "color": "Xanh navy phối trắng",
+          "hex": "#1C2942 / #FFFFFF",
+          "size": "S",
+          "stock": 20
+        },
+        {
+          "sku": "AK-YEN-05-XANH-NAVY-PHOI-TRANG-M",
+          "color": "Xanh navy phối trắng",
+          "hex": "#1C2942 / #FFFFFF",
+          "size": "M",
+          "stock": 30
+        },
+        {
+          "sku": "AK-YEN-05-XANH-NAVY-PHOI-TRANG-L",
+          "color": "Xanh navy phối trắng",
+          "hex": "#1C2942 / #FFFFFF",
+          "size": "L",
+          "stock": 30
+        },
+        {
+          "sku": "AK-YEN-05-XANH-NAVY-PHOI-TRANG-XL",
+          "color": "Xanh navy phối trắng",
+          "hex": "#1C2942 / #FFFFFF",
+          "size": "XL",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "AK-FIS-16",
+      "slug": "ao-khoa-he-thong-thong-tin-fis-original",
+      "name": "Áo khoa Hệ thống Thông tin FIS Original",
+      "price": 329000,
+      "description": "Áo polo xanh navy phối cam giữ bố cục mẫu Khoa Hệ thống Thông tin; mặt trước có #FIS@UEL, mặt sau thể hiện tên khoa.",
+      "material": "Cá sấu poly-cotton 60/40; co giãn nhẹ; định lượng khoảng 190 gsm",
+      "care": "Lộn trái trước khi giặt; giặt dưới 30°C; không tẩy; không sấy nhiệt cao; ủi mặt trái ở nhiệt thấp.",
+      "sold": 0,
+      "category": "ao-khoac",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/ak-fis-16/1.webp",
+        "images/products/ak-fis-16/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "AK-FIS-16-XANH-NAVY-PHOI-CAM-S",
+          "color": "Xanh navy phối cam",
+          "hex": "#12243A / #F28C28",
+          "size": "S",
+          "stock": 19
+        },
+        {
+          "sku": "AK-FIS-16-XANH-NAVY-PHOI-CAM-M",
+          "color": "Xanh navy phối cam",
+          "hex": "#12243A / #F28C28",
+          "size": "M",
+          "stock": 29
+        },
+        {
+          "sku": "AK-FIS-16-XANH-NAVY-PHOI-CAM-L",
+          "color": "Xanh navy phối cam",
+          "hex": "#12243A / #F28C28",
+          "size": "L",
+          "stock": 29
+        },
+        {
+          "sku": "AK-FIS-16-XANH-NAVY-PHOI-CAM-XL",
+          "color": "Xanh navy phối cam",
+          "hex": "#12243A / #F28C28",
+          "size": "XL",
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "code": "QT-YEN-01",
+      "slug": "quan-the-thao-uel-campus-jogger",
+      "name": "Quần thể thao UEL Campus Jogger",
+      "price": 219000,
+      "description": "Quần jogger xanh navy có dáng ống thuôn, bo gấu và lưng thun kèm dây rút. Hai bên ống phối viền trắng, phía trước có chữ UEL nhỏ, kết hợp hai túi bên và một túi sau. Thiết kế mang phong cách thể thao, phù hợp cho trang phục sinh viên.",
+      "material": "Vải thể thao polyester pha cotton",
+      "care": "Giặt nhẹ bằng nước mát, lộn trái trước khi giặt; không dùng thuốc tẩy, tránh sấy nhiệt cao và không ủi trực tiếp lên chữ thêu",
+      "sold": 0,
+      "category": "quan",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/qt-yen-01/1.webp",
+        "images/products/qt-yen-01/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "QT-YEN-01-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "S",
+          "stock": 20
+        },
+        {
+          "sku": "QT-YEN-01-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "M",
+          "stock": 30
+        },
+        {
+          "sku": "QT-YEN-01-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "L",
+          "stock": 30
+        },
+        {
+          "sku": "QT-YEN-01-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "XL",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "QT-YEN-02",
+      "slug": "quan-the-thao-uel-straight-fit",
+      "name": "Quần thể thao UEL Straight Fit",
+      "price": 229000,
+      "description": "Quần thể thao màu đen có dáng ống suông, gấu mở và lưng thun kèm dây rút. Thiết kế có hai túi bên, một túi sau và chữ UEL trắng nhỏ phía trước, phối sọc xám than dọc hai bên ống. Phù hợp cho trang phục đi học và hoạt động thể thao.",
+      "material": "Vải thể thao polyester pha cotton",
+      "care": "Giặt nhẹ bằng nước mát; lộn trái trước khi giặt, giặt riêng đồ tối màu; tránh thuốc tẩy và sấy nhiệt cao",
+      "sold": 0,
+      "category": "quan",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/qt-yen-02/1.webp",
+        "images/products/qt-yen-02/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "QT-YEN-02-DEN-S",
+          "color": "Đen",
+          "hex": "#202025",
+          "size": "S",
+          "stock": 20
+        },
+        {
+          "sku": "QT-YEN-02-DEN-M",
+          "color": "Đen",
+          "hex": "#202025",
+          "size": "M",
+          "stock": 30
+        },
+        {
+          "sku": "QT-YEN-02-DEN-L",
+          "color": "Đen",
+          "hex": "#202025",
+          "size": "L",
+          "stock": 30
+        },
+        {
+          "sku": "QT-YEN-02-DEN-XL",
+          "color": "Đen",
+          "hex": "#202025",
+          "size": "XL",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "QT-YEN-03",
+      "slug": "quan-the-thao-uel-grey-jogger",
+      "name": "Quần thể thao UEL Grey Jogger",
+      "price": 239000,
+      "description": "Quần jogger xám khói có dáng ống thuôn, bo gấu và lưng thun kèm dây rút. Mẫu có hai túi bên, một túi sau cùng chữ UEL xanh navy nhỏ phía trước, không phối sọc. Thiết kế mang phong cách tối giản cho trang phục sinh viên.",
+      "material": "Vải nỉ cotton pha polyester",
+      "care": "Giặt nhẹ bằng nước mát, lộn trái trước khi giặt; không dùng thuốc tẩy; phơi nơi thoáng mát và tránh sấy nhiệt cao",
+      "sold": 0,
+      "category": "quan",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/qt-yen-03/1.webp",
+        "images/products/qt-yen-03/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "QT-YEN-03-XAM-KHOI-S",
+          "color": "Xám khói",
+          "hex": "#B8B9BB",
+          "size": "S",
+          "stock": 18
+        },
+        {
+          "sku": "QT-YEN-03-XAM-KHOI-M",
+          "color": "Xám khói",
+          "hex": "#B8B9BB",
+          "size": "M",
+          "stock": 28
+        },
+        {
+          "sku": "QT-YEN-03-XAM-KHOI-L",
+          "color": "Xám khói",
+          "hex": "#B8B9BB",
+          "size": "L",
+          "stock": 28
+        },
+        {
+          "sku": "QT-YEN-03-XAM-KHOI-XL",
+          "color": "Xám khói",
+          "hex": "#B8B9BB",
+          "size": "XL",
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "code": "QT-YEN-04",
+      "slug": "quan-short-the-thao-uel-active",
+      "name": "Quần short thể thao UEL Active",
+      "price": 169000,
+      "description": "Quần short xanh navy có chiều dài trên gối, lưng thun và dây rút cùng màu. Hai bên phối viền trắng, phía trước có chữ UEL nhỏ; thiết kế gồm hai túi bên và một túi sau. Phù hợp cho trang phục vận động và sinh hoạt câu lạc bộ.",
+      "material": "Vải thể thao polyester pha cotton",
+      "care": "Giặt nhẹ bằng nước mát, lộn trái trước khi giặt; không dùng thuốc tẩy hoặc sấy nhiệt cao; không ủi trực tiếp lên chữ thêu",
+      "sold": 0,
+      "category": "quan",
+      "collection": "everyday-at-uel",
+      "images": [
+        "images/products/qt-yen-04/1.webp",
+        "images/products/qt-yen-04/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "QT-YEN-04-XANH-NAVY-S",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "S",
+          "stock": 25
+        },
+        {
+          "sku": "QT-YEN-04-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "M",
+          "stock": 35
+        },
+        {
+          "sku": "QT-YEN-04-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "L",
+          "stock": 35
+        },
+        {
+          "sku": "QT-YEN-04-XANH-NAVY-XL",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "XL",
+          "stock": 25
+        }
+      ]
+    },
+    {
+      "code": "BT-THU-08",
+      "slug": "tui-tote-uel-daylight",
+      "name": "Túi Tote UEL Daylight",
+      "price": 159000,
+      "description": "Túi tote màu kem với họa tiết mặt trời màu xanh và dòng chữ UEL Daylight. Mặt sau có ngăn phụ bên ngoài, quai đeo được gia cố đường may. Mẫu túi mang phong cách nhẹ nhàng để đựng sổ tay và vật dụng cá nhân.",
+      "material": "Canvas cotton dày",
+      "care": "Lau vết bẩn bằng khăn ẩm; không ngâm lâu",
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/bt-thu-08/1.webp",
+        "images/products/bt-thu-08/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "BT-THU-08-KEM-FREE-SIZE",
+          "color": "Kem",
+          "hex": "#E5DBCA",
+          "size": "Free size",
+          "stock": 60
+        }
+      ]
+    },
+    {
+      "code": "LT-THU-21",
+      "slug": "tui-chong-soc-laptop-uel-edge",
+      "name": "Túi chống sốc laptop UEL Edge",
+      "price": 259000,
+      "description": "Túi chống sốc laptop phối xanh navy với dải màu nhận diện UEL. Thiết kế gọn gàng, có khóa kéo và lớp lót mềm giúp bảo vệ thiết bị khi di chuyển.",
+      "material": "Vải polyester chống sốc và lớp lót mềm",
+      "care": "Lau sạch bằng khăn ẩm; không giặt máy.",
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/lt-thu-21/1.webp",
+        "images/products/lt-thu-21/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "LT-THU-21-XANH-NAVY-13-INCH",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "13 inch",
+          "stock": 16
+        },
+        {
+          "sku": "LT-THU-21-XANH-NAVY-14-INCH",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "14 inch",
+          "stock": 18
+        },
+        {
+          "sku": "LT-THU-21-XANH-NAVY-15-6-INCH",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "15.6 inch",
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "code": "BL-THU-27",
+      "slug": "balo-uel-move",
+      "name": "Balo UEL Move",
+      "price": 399000,
+      "description": "Balo nhiều ngăn phối logo UEL và dải màu thương hiệu. Phù hợp mang sách vở, laptop và vật dụng cá nhân cho lịch học bận rộn.",
+      "material": "Vải polyester chống bám bụi",
+      "care": "Lau ẩm định kỳ; không ngâm lâu trong nước.",
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/bl-thu-27/1.webp",
+        "images/products/bl-thu-27/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "BL-THU-27-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "Free size",
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "code": "BT-YEN-09",
+      "slug": "balo-uel-campus-arc",
+      "name": "Balo UEL Campus Arc",
+      "price": 349000,
+      "description": "Balo xanh navy có phom bo tròn, ngăn chính hai khóa kéo, ngăn trước viền kem và hai túi bên.",
+      "material": "Polyester dệt vân, lưng lưới và lớp đệm tổng hợp",
+      "care": "Lau bằng khăn ẩm và xà phòng dịu nhẹ; không giặt máy, không ngâm lâu và tránh phơi dưới nắng gắt",
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/bt-yen-09/1.webp",
+        "images/products/bt-yen-09/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "BT-YEN-09-XANH-NAVY-PHOI-KEM-FREE-SIZE",
+          "color": "Xanh navy phối kem",
+          "hex": "#182849",
+          "size": "Free size",
+          "stock": 35
+        }
+      ]
+    },
+    {
+      "code": "TT-YEN-10",
+      "slug": "tui-tote-uel-study-carry",
+      "name": "Túi tote UEL Study Carry",
+      "price": 179000,
+      "description": "Túi tote canvas màu kem phối quai và đáy xanh navy, miệng túi có khóa kéo. Mặt trước in biểu tượng sách mở cùng chữ UEL; mặt sau có túi phụ ngoài. Mẫu phù hợp để mang sổ tay và vật dụng cá nhân.",
+      "material": "Canvas cotton dày, quai dệt polyester và khóa kéo",
+      "care": "Lau vết bẩn bằng khăn ẩm; giặt tay nhẹ khi cần, không ngâm lâu, không dùng thuốc tẩy và tránh sấy nóng",
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/tt-yen-10/1.webp",
+        "images/products/tt-yen-10/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "TT-YEN-10-KEM-PHOI-XANH-NAVY-FREE-SIZE",
+          "color": "Kem phối xanh navy",
+          "hex": "#EAE2D2",
+          "size": "Free size",
+          "stock": 40
+        }
+      ]
+    },
+    {
+      "code": "TX-YEN-28",
+      "slug": "tui-deo-cheo-uel-campus-mini",
+      "name": "Túi đeo chéo UEL Campus Mini",
+      "price": 259000,
+      "description": "Túi đeo chéo nhỏ màu đen phối mảng xanh UEL, ngăn trước có khóa kéo và dây đeo điều chỉnh. Nhãn dệt UEL đặt ở góc trước.",
+      "material": "Nylon chống thấm nhẹ, lưng lưới và khóa kéo kim loại",
+      "care": "Lau bằng khăn ẩm và xà phòng dịu nhẹ; không giặt máy hoặc ngâm lâu; phơi nơi thoáng mát",
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/tx-yen-28/1.webp",
+        "images/products/tx-yen-28/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "TX-YEN-28-DEN-PHOI-XANH-UEL-FREE-SIZE",
+          "color": "Đen phối xanh UEL",
+          "hex": "#181A1F / #0066B3",
+          "size": "Free size",
+          "stock": 45
+        }
+      ]
+    },
+    {
+      "code": "MY-28",
+      "slug": "tui-tote-uel-green-routine",
+      "name": "Túi tote UEL Green Routine",
+      "price": 99000,
+      "description": "Túi tote màu tự nhiên với đáy rộng và hình in lá cây, phù hợp mang sách vở hằng ngày.",
+      "material": "Canvas cotton",
+      "care": "Giặt tay hoặc lau điểm bẩn; không ngâm lâu; phơi khô hoàn toàn trước khi cất.",
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/my-28/1.webp",
+        "images/products/my-28/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-28-XAM-MELANGE-S",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "S",
+          "stock": 25
+        },
+        {
+          "sku": "MY-28-XAM-MELANGE-M",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "M",
+          "stock": 20
+        },
+        {
+          "sku": "MY-28-XAM-MELANGE-L",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "L",
+          "stock": 31
+        },
+        {
+          "sku": "MY-28-XAM-MELANGE-XL",
+          "color": "Xám melange",
+          "hex": "#B9B9B9",
+          "size": "XL",
+          "stock": 10
+        },
+        {
+          "sku": "MY-28-XANH-REU-S",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "S",
+          "stock": 13
+        },
+        {
+          "sku": "MY-28-XANH-REU-M",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "M",
+          "stock": 24
+        },
+        {
+          "sku": "MY-28-XANH-REU-L",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "L",
+          "stock": 23
+        },
+        {
+          "sku": "MY-28-XANH-REU-XL",
+          "color": "Xanh rêu",
+          "hex": "#52634A",
+          "size": "XL",
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "code": "PK-BACKPACKS-05",
+      "slug": "balo-uel-campus-essential-xanh-navy",
+      "name": "Balo UEL Campus Essential - Xanh Navy",
+      "price": 469000,
+      "description": "Balo xanh navy phối trắng và xanh dương, logo UEL trắng xanh ở mặt trước, hai bên có túi lưới đựng bình nước.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-backpacks-05/1.webp",
+        "images/products/pk-backpacks-05/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-BACKPACKS-05-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "Free size",
+          "stock": 26
+        }
+      ]
+    },
+    {
+      "code": "PK-BACKPACKS-06",
+      "slug": "balo-uel-commuter-active-den-xanh",
+      "name": "Balo UEL Commuter Active - Đen Xanh",
+      "price": 479000,
+      "description": "Balo thân đen phối xanh navy và xanh dương nổi bật, viền trắng và logo UEL trắng xanh, phong cách năng động khi di chuyển.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-backpacks-06/1.webp",
+        "images/products/pk-backpacks-06/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-BACKPACKS-06-DEN-NAVY-FREE-SIZE",
+          "color": "Đen navy",
+          "hex": "#1A1A1A",
+          "size": "Free size",
+          "stock": 21
+        }
+      ]
+    },
+    {
+      "code": "PK-BACKPACKS-07",
+      "slug": "balo-uel-campus-light-xam-navy",
+      "name": "Balo UEL Campus Light - Xám Navy",
+      "price": 459000,
+      "description": "Balo thân xám phối xanh navy và xanh dương, chi tiết trắng cùng logo UEL xanh, tông màu nhẹ cho ngày đến lớp.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-backpacks-07/1.webp",
+        "images/products/pk-backpacks-07/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-BACKPACKS-07-XAM-NAVY-FREE-SIZE",
+          "color": "Xám navy",
+          "hex": "#9CA3AF",
+          "size": "Free size",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "PK-BACKPACKS-08",
+      "slug": "balo-uel-premium-sport-xanh-navy",
+      "name": "Balo UEL Premium Sport - Xanh Navy",
+      "price": 469000,
+      "description": "Balo thể thao xanh navy chủ đạo, phối xanh dương sáng và trắng, logo UEL trắng xanh ở mặt trước.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-backpacks-08/1.webp",
+        "images/products/pk-backpacks-08/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-BACKPACKS-08-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "Free size",
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "code": "PK-BACKPACKS-09",
+      "slug": "balo-uel-campus-fresh-xam-sang-xanh-duong",
+      "name": "Balo UEL Campus Fresh - Xám sáng xanh dương",
+      "price": 479000,
+      "description": "Thiết kế balo UEL tông xám sáng phối xanh dương tạo cảm giác trẻ trung, phù hợp phong cách học đường. Mặt trước bố trí logo UEL, ngăn khóa kéo và các mảng màu thể thao.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-backpacks-09/1.webp",
+        "images/products/pk-backpacks-09/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-BACKPACKS-09-XAM-XANH-DUONG-FREE-SIZE",
+          "color": "Xám xanh dương",
+          "hex": "#9CA3AF",
+          "size": "Free size",
+          "stock": 33
+        }
+      ]
+    },
+    {
+      "code": "PK-BACKPACKS-10",
+      "slug": "balo-uel-sky-campus-kem-xanh-da-troi",
+      "name": "Balo UEL Sky Campus - Kem xanh da trời",
+      "price": 459000,
+      "description": "Thiết kế balo UEL phối kem và xanh da trời mang phong cách nhẹ nhàng, năng động. Mặt trước nổi bật với logo UEL cùng đường viền và các mảng màu đồng bộ.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-backpacks-10/1.webp",
+        "images/products/pk-backpacks-10/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-BACKPACKS-10-KEM-XANH-DA-TROI-FREE-SIZE",
+          "color": "Kem xanh da trời",
+          "hex": "#EAE2D2",
+          "size": "Free size",
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "code": "PK-BACKPACKS-11",
+      "slug": "balo-uel-ice-blue-bac-xanh-nhat",
+      "name": "Balo UEL Ice Blue - Bạc xanh nhạt",
+      "price": 479000,
+      "description": "Thiết kế balo UEL gam bạc xám và xanh băng tạo cảm giác hiện đại, tối giản. Logo UEL xanh đậm trên mặt trước giúp nhận diện rõ ràng; các đường phối trắng xanh tăng điểm nhấn.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-backpacks-11/1.webp",
+        "images/products/pk-backpacks-11/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-BACKPACKS-11-BAC-XANH-NHAT-FREE-SIZE",
+          "color": "Bạc xanh nhạt",
+          "hex": "#C9CED6",
+          "size": "Free size",
+          "stock": 27
+        }
+      ]
+    },
+    {
+      "code": "PK-BACKPACKS-12",
+      "slug": "balo-uel-campus-cream-kem-xanh",
+      "name": "Balo UEL Campus Cream - Kem xanh",
+      "price": 469000,
+      "description": "Mẫu balo UEL phối kem và xanh dương nhạt theo phong cách học đường sáng màu.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-backpacks-12/1.webp",
+        "images/products/pk-backpacks-12/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-BACKPACKS-12-KEM-XANH-FREE-SIZE",
+          "color": "Kem xanh",
+          "hex": "#EAE2D2",
+          "size": "Free size",
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "code": "PK-BACKPACKS-13",
+      "slug": "balo-uel-campus-sky-xam-xanh",
+      "name": "Balo UEL Campus Sky - Xám xanh",
+      "price": 459000,
+      "description": "Mẫu balo UEL nền xám sáng kết hợp các điểm nhấn xanh dương và trắng mang tinh thần trẻ trung.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "balo-tui",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-backpacks-13/1.webp",
+        "images/products/pk-backpacks-13/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-BACKPACKS-13-XAM-XANH-FREE-SIZE",
+          "color": "Xám xanh",
+          "hex": "#9CA3AF",
+          "size": "Free size",
+          "stock": 34
+        }
+      ]
+    },
+    {
+      "code": "PK-THU-09",
+      "slug": "non-uel-campus",
+      "name": "Nón UEL Campus",
+      "price": 139000,
+      "description": "Nón lưỡi trai màu đen với chữ UEL Campus thêu nổi bật màu xanh trắng. Phía sau có khóa điều chỉnh kích thước và đường may tương phản tinh tế. Mẫu phụ kiện dùng để phối đồ hoặc che nắng khi di chuyển.",
+      "material": "Cotton twill",
+      "care": "Lau ẩm, hạn chế giặt máy để giữ form",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-thu-09/1.webp",
+        "images/products/pk-thu-09/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-THU-09-DEN-FREE-SIZE",
+          "color": "Đen",
+          "hex": "#202025",
+          "size": "Free size",
+          "stock": 70
+        }
+      ]
+    },
+    {
+      "code": "DE-THU-11",
+      "slug": "dep-quai-ngang-uel-coast",
+      "name": "Dép quai ngang UEL Coast",
+      "price": 169000,
+      "description": "Dép quai ngang phối xanh navy và kem với chữ UEL nổi bật. Thiết kế đơn giản, phù hợp sử dụng hằng ngày tại ký túc xá hoặc khi đi dạo.",
+      "material": "Đế EVA và quai giả da",
+      "care": "Lau bằng khăn ẩm; tránh phơi dưới nắng gắt.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/de-thu-11/1.webp",
+        "images/products/de-thu-11/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "DE-THU-11-XANH-NAVY-37",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "37",
+          "stock": 18
+        },
+        {
+          "sku": "DE-THU-11-XANH-NAVY-38",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "38",
+          "stock": 20
+        },
+        {
+          "sku": "DE-THU-11-XANH-NAVY-39",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "39",
+          "stock": 22
+        },
+        {
+          "sku": "DE-THU-11-XANH-NAVY-40",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "40",
+          "stock": 25
+        },
+        {
+          "sku": "DE-THU-11-XANH-NAVY-41",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "41",
+          "stock": 16
+        },
+        {
+          "sku": "DE-THU-11-XANH-NAVY-42",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "42",
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "code": "PK-THU-12",
+      "slug": "kinh-thoi-trang-uel-vision",
+      "name": "Kính thời trang UEL Vision",
+      "price": 139000,
+      "description": "Mẫu kính thời trang có gọng xám trong và càng màu navy in chữ UEL. Phối kèm hộp kính vải xanh theo phong cách sinh viên tối giản.",
+      "material": "Gọng nhựa trong và kim loại",
+      "care": "Lau nhẹ bằng khăn chuyên dụng; cất vào hộp sau khi dùng.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-thu-12/1.webp",
+        "images/products/pk-thu-12/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-THU-12-XAM-TRONG-FREE-SIZE",
+          "color": "Xám trong",
+          "hex": "#879095",
+          "size": "Free size",
+          "stock": 35
+        }
+      ]
+    },
+    {
+      "code": "MK-THU-13",
+      "slug": "moc-khoa-uel-campus",
+      "name": "Móc khóa UEL Campus",
+      "price": 59000,
+      "description": "Móc khóa kim loại với biểu tượng UEL lấy cảm hứng từ tinh thần học tập. Phối xanh navy, trắng và vàng kim, thích hợp làm phụ kiện balo hoặc quà nhỏ cho bạn bè.",
+      "material": "Hợp kim phủ màu và men trang trí",
+      "care": "Lau bằng khăn mềm khô; tránh hóa chất mạnh.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "graduation-memory",
+      "images": [
+        "images/products/mk-thu-13/1.webp",
+        "images/products/mk-thu-13/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MK-THU-13-XANH-VANG-FREE-SIZE",
+          "color": "Xanh vàng",
+          "hex": "#183766",
+          "size": "Free size",
+          "stock": 70
+        }
+      ]
+    },
+    {
+      "code": "KT-THU-14",
+      "slug": "khan-tay-uel-sunrise",
+      "name": "Khăn tay UEL Sunrise",
+      "price": 79000,
+      "description": "Khăn tay màu kem có viền xanh và cam, điểm họa tiết mặt trời cùng ký tự UEL. Thiết kế gọn nhẹ để mang theo khi đi học hoặc đi chơi.",
+      "material": "Vải cotton pha",
+      "care": "Giặt nhẹ bằng nước mát; không dùng chất tẩy mạnh.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "graduation-memory",
+      "images": [
+        "images/products/kt-thu-14/1.webp",
+        "images/products/kt-thu-14/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "KT-THU-14-TRANG-KEM-FREE-SIZE",
+          "color": "Trắng kem",
+          "hex": "#F3EBDD",
+          "size": "Free size",
+          "stock": 45
+        }
+      ]
+    },
+    {
+      "code": "BN-THU-15",
+      "slug": "binh-nuoc-uel-hydro",
+      "name": "Bình nước UEL Hydro",
+      "price": 229000,
+      "description": "Bình nước phong cách thể thao phối xanh navy, cam và trắng. Nắp có quai xách và nút đóng, phù hợp làm bình mang đi học.",
+      "material": "Thép không gỉ hai lớp và nắp nhựa",
+      "care": "Rửa bằng tay; để khô hoàn toàn trước khi đóng nắp.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/bn-thu-15/1.webp",
+        "images/products/bn-thu-15/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "BN-THU-15-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1B2F52",
+          "size": "Free size",
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "code": "LY-THU-16",
+      "slug": "ly-giu-nhiet-uel-campus",
+      "name": "Ly giữ nhiệt UEL Campus",
+      "price": 199000,
+      "description": "Ly cầm tay màu xanh navy với hình UEL và dải trang trí xanh cam. Kiểu dáng tối giản phù hợp bàn học hoặc góc làm việc.",
+      "material": "Thép không gỉ và nắp trong",
+      "care": "Rửa bằng tay; tránh dùng chất tẩy có tính mài mòn.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "graduation-memory",
+      "images": [
+        "images/products/ly-thu-16/1.webp",
+        "images/products/ly-thu-16/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "LY-THU-16-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1B2F52",
+          "size": "Free size",
+          "stock": 32
+        }
+      ]
+    },
+    {
+      "code": "SO-THU-17",
+      "slug": "so-tay-uel-notes",
+      "name": "Sổ tay UEL Notes",
+      "price": 89000,
+      "description": "Sổ tay bìa xanh navy có logo UEL và dây thun màu cam. Ruột giấy kẻ dòng tạo cảm giác phù hợp cho ghi chép bài học và lên kế hoạch cá nhân.",
+      "material": "Bìa vải và giấy viết",
+      "care": "Bảo quản nơi khô ráo; tránh nước và nguồn nhiệt.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "graduation-memory",
+      "images": [
+        "images/products/so-thu-17/1.webp",
+        "images/products/so-thu-17/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "SO-THU-17-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#182C50",
+          "size": "Free size",
+          "stock": 55
+        }
+      ]
+    },
+    {
+      "code": "BU-THU-18",
+      "slug": "but-ky-uel-signature",
+      "name": "Bút ký UEL Signature",
+      "price": 69000,
+      "description": "Bút ký màu xanh navy phối chi tiết ánh bạc, có chữ UEL trên thân. Đi cùng hộp giấy đồng bộ, phù hợp làm quà lưu niệm học đường hoặc vật dụng hằng ngày.",
+      "material": "Thân kim loại và mực bi",
+      "care": "Đậy ngòi sau khi dùng; tránh làm rơi va đập mạnh.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "graduation-memory",
+      "images": [
+        "images/products/bu-thu-18/1.webp",
+        "images/products/bu-thu-18/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "BU-THU-18-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1B2F52",
+          "size": "Free size",
+          "stock": 60
+        }
+      ]
+    },
+    {
+      "code": "DU-THU-19",
+      "slug": "o-gap-uel-everyday",
+      "name": "Ô gấp UEL Everyday",
+      "price": 179000,
+      "description": "Ô gấp màu navy viền xanh cam với biểu tượng UEL nổi bật. Kiểu dáng gọn để bỏ trong balo, phù hợp làm phụ kiện dùng trong mùa mưa.",
+      "material": "Vải dù polyester và khung kim loại",
+      "care": "Phơi khô khi ô ướt; cất ở nơi thoáng mát.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/du-thu-19/1.webp",
+        "images/products/du-thu-19/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "DU-THU-19-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1D2E50",
+          "size": "Free size",
+          "stock": 25
+        }
+      ]
+    },
+    {
+      "code": "OP-THU-20",
+      "slug": "op-dien-thoai-uel-sunrise",
+      "name": "Ốp điện thoại UEL Sunrise",
+      "price": 119000,
+      "description": "Ốp điện thoại phối nền kem, viền xanh và họa tiết UEL Sunrise. Thiết kế mang tinh thần quà lưu niệm công nghệ dành cho sinh viên.",
+      "material": "Khung TPU và mặt vải",
+      "care": "Lau nhẹ bằng khăn ẩm; tránh tiếp xúc nguồn nhiệt cao.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/op-thu-20/1.webp",
+        "images/products/op-thu-20/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "OP-THU-20-TRANG-XANH-FREE-SIZE",
+          "color": "Trắng xanh",
+          "hex": "#EEDFC8",
+          "size": "Free size",
+          "stock": 48
+        }
+      ]
+    },
+    {
+      "code": "TN-THU-22",
+      "slug": "op-tai-nghe-uel-air-case",
+      "name": "Ốp tai nghe UEL Air Case",
+      "price": 119000,
+      "description": "Ốp bảo vệ tai nghe không dây với móc treo tiện lợi và phối màu xanh navy – trắng – cam. Phù hợp treo trên balo hoặc móc khóa để mang theo hằng ngày.",
+      "material": "Silicone dẻo và móc hợp kim",
+      "care": "Tránh nhiệt cao; lau khô sau khi sử dụng.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/tn-thu-22/1.webp",
+        "images/products/tn-thu-22/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "TN-THU-22-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "Free size",
+          "stock": 25
+        }
+      ]
+    },
+    {
+      "code": "VD-THU-23",
+      "slug": "vi-the-uel-card-holder",
+      "name": "Ví thẻ UEL Card Holder",
+      "price": 129000,
+      "description": "Ví thẻ tối giản với nhiều ngăn và phối màu nhận diện UEL. Phù hợp đựng thẻ sinh viên, thẻ xe hoặc các loại thẻ thanh toán cần sử dụng nhanh.",
+      "material": "Da PU và thun co giãn",
+      "care": "Lau bằng khăn mềm; tránh cọ xát với vật sắc.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/vd-thu-23/1.webp",
+        "images/products/vd-thu-23/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "VD-THU-23-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "Free size",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "DT-THU-24",
+      "slug": "day-deo-the-uel-daily-pass",
+      "name": "Dây đeo thẻ UEL Daily Pass",
+      "price": 69000,
+      "description": "Dây đeo thẻ bản dày in logo UEL kèm bao thẻ tiện dụng. Phù hợp cho sinh viên và nhân viên dùng hằng ngày trong khuôn viên trường.",
+      "material": "Dây dệt polyester và bao thẻ nhựa mềm",
+      "care": "Giặt tay nhẹ; tránh kéo căng quá mức.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/dt-thu-24/1.webp",
+        "images/products/dt-thu-24/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "DT-THU-24-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "Free size",
+          "stock": 36
+        }
+      ]
+    },
+    {
+      "code": "MU-THU-25",
+      "slug": "mu-bucket-uel-campus",
+      "name": "Mũ bucket UEL Campus",
+      "price": 179000,
+      "description": "Mũ bucket màu xanh navy với logo thêu UEL nổi bật và viền phối màu cam – trắng. Phong cách trẻ trung, dễ phối với nhiều trang phục thường ngày.",
+      "material": "Cotton twill dày",
+      "care": "Giặt tay nhẹ; không sấy nhiệt cao.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/mu-thu-25/1.webp",
+        "images/products/mu-thu-25/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MU-THU-25-XANH-NAVY-M",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "M",
+          "stock": 12
+        },
+        {
+          "sku": "MU-THU-25-XANH-NAVY-L",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "L",
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "code": "VO-THU-26",
+      "slug": "vo-cao-co-uel-varsity",
+      "name": "Vớ cao cổ UEL Varsity",
+      "price": 79000,
+      "description": "Vớ cao cổ phong cách varsity với điểm nhấn logo UEL và sọc màu xanh – cam. Chất liệu co giãn, phù hợp đi học, chơi thể thao nhẹ hoặc phối outfit đường phố.",
+      "material": "Cotton pha spandex",
+      "care": "Giặt cùng màu tương tự; tránh tẩy mạnh.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/vo-thu-26/1.webp",
+        "images/products/vo-thu-26/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "VO-THU-26-TRANG-XANH-35-38",
+          "color": "Trắng xanh",
+          "hex": "#F2F0E8",
+          "size": "35-38",
+          "stock": 22
+        },
+        {
+          "sku": "VO-THU-26-TRANG-XANH-39-42",
+          "color": "Trắng xanh",
+          "hex": "#F2F0E8",
+          "size": "39-42",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "BT-THU-28",
+      "slug": "bop-viet-uel-campus-pouch",
+      "name": "Bóp viết UEL Campus Pouch",
+      "price": 99000,
+      "description": "Bóp viết nhỏ gọn với lớp lót màu cam nổi bật bên trong. Phù hợp đựng bút, cáp sạc hoặc các phụ kiện nhỏ cần mang theo mỗi ngày.",
+      "material": "Vải canvas và khóa kéo kim loại",
+      "care": "Lau sạch nhẹ nhàng; tránh đựng vật quá sắc.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/bt-thu-28/1.webp",
+        "images/products/bt-thu-28/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "BT-THU-28-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "Free size",
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "code": "CH-THU-29",
+      "slug": "chuot-khong-day-uel-click",
+      "name": "Chuột không dây UEL Click",
+      "price": 289000,
+      "description": "Chuột không dây thiết kế công thái học với phối màu navy – cam hiện đại. Phù hợp cho học tập và làm việc trên laptop trong thư viện hoặc lớp học.",
+      "material": "Nhựa ABS nhám",
+      "care": "Giữ khô ráo; lau bằng khăn mềm khô.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/ch-thu-29/1.webp",
+        "images/products/ch-thu-29/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "CH-THU-29-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "Free size",
+          "stock": 17
+        }
+      ]
+    },
+    {
+      "code": "TM-THU-30",
+      "slug": "lot-chuot-dai-uel-desk-mat",
+      "name": "Lót chuột dài UEL Desk Mat",
+      "price": 219000,
+      "description": "Lót chuột dài với bề mặt rộng rãi cho bàn học hoặc bàn làm việc. Thiết kế tinh gọn mang dấu ấn UEL, hỗ trợ thao tác chuột êm và ổn định.",
+      "material": "Bề mặt vải mịn và đế cao su chống trượt",
+      "care": "Lau bề mặt bằng khăn ẩm; phơi nơi thoáng mát.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/tm-thu-30/1.webp",
+        "images/products/tm-thu-30/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "TM-THU-30-XANH-NAVY-700X300-MM",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "700x300 mm",
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "code": "DD-FIS-17",
+      "slug": "day-deo-the-khoa-he-thong-thong-tin",
+      "name": "Dây đeo thẻ Khoa Hệ thống Thông tin",
+      "price": 59000,
+      "description": "Dây đeo thẻ xanh navy phối vàng, giữ tinh thần nhận diện FIS; chữ khoa lặp dọc dây, phụ kiện kim loại màu bạc.",
+      "material": "Polyester dệt mịn; móc kim loại; khóa tháo nhanh",
+      "care": "Giặt tay nhanh bằng xà phòng loãng; tránh ngâm phần kim loại; lau khô móc khóa; không sấy nóng.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/dd-fis-17/1.webp",
+        "images/products/dd-fis-17/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "DD-FIS-17-XANH-NAVY-PHOI-VANG-FREE-SIZE",
+          "color": "Xanh navy phối vàng",
+          "hex": "#12243A / #F5C542",
+          "size": "Free size",
+          "stock": 64
+        }
+      ]
+    },
+    {
+      "code": "DD-UEL-18",
+      "slug": "day-deo-the-uel-campus-blue",
+      "name": "Dây đeo thẻ UEL Campus Blue",
+      "price": 69000,
+      "description": "Dây đeo trường màu xanh UEL phối chữ trắng, bố cục tối giản; dùng cho thẻ sinh viên và thẻ sự kiện.",
+      "material": "Polyester dệt mịn; móc kim loại; khóa tháo nhanh",
+      "care": "Giặt tay nhẹ; không dùng chất tẩy; tránh ngâm móc kim loại; phơi tự nhiên.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/dd-uel-18/1.webp",
+        "images/products/dd-uel-18/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "DD-UEL-18-XANH-UEL-PHOI-TRANG-FREE-SIZE",
+          "color": "Xanh UEL phối trắng",
+          "hex": "#0066B3 / #FFFFFF",
+          "size": "Free size",
+          "stock": 60
+        }
+      ]
+    },
+    {
+      "code": "MBH-YEN-19",
+      "slug": "mu-bao-hiem-uel-matte-navy",
+      "name": "Mũ bảo hiểm UEL Matte Navy",
+      "price": 299000,
+      "description": "Mũ nửa đầu xanh navy mờ, chữ UEL trắng tối giản ở hai bên; khóa cài điều chỉnh.",
+      "material": "Vỏ ABS; lõi EPS hấp thụ xung lực; quai polyester",
+      "care": "Lau vỏ bằng khăn ẩm; vệ sinh lót bằng xà phòng loãng; không dùng dung môi; không phơi dưới nắng gắt.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/mbh-yen-19/1.webp",
+        "images/products/mbh-yen-19/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MBH-YEN-19-XANH-NAVY-MO-M",
+          "color": "Xanh navy mờ",
+          "hex": "#142B4A",
+          "size": "M",
+          "stock": 23
+        },
+        {
+          "sku": "MBH-YEN-19-XANH-NAVY-MO-L",
+          "color": "Xanh navy mờ",
+          "hex": "#142B4A",
+          "size": "L",
+          "stock": 33
+        },
+        {
+          "sku": "MBH-YEN-19-XANH-NAVY-MO-XL",
+          "color": "Xanh navy mờ",
+          "hex": "#142B4A",
+          "size": "XL",
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "code": "MBH-YEN-20",
+      "slug": "mu-bao-hiem-uel-heritage-stripe",
+      "name": "Mũ bảo hiểm UEL Heritage Stripe",
+      "price": 329000,
+      "description": "Mũ nửa đầu trắng ngọc trai với sọc xanh navy và đỏ, chữ UEL gọn ở hông; phong cách thể thao cổ điển.",
+      "material": "Vỏ ABS; lõi EPS; lót vải kháng khuẩn tháo rời",
+      "care": "Tháo lót và giặt tay; lau vỏ bằng khăn mềm; không dùng hóa chất mạnh; hong khô tự nhiên.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/mbh-yen-20/1.webp",
+        "images/products/mbh-yen-20/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MBH-YEN-20-TRANG-NGOC-TRAI-PHOI-XANH-DO-M",
+          "color": "Trắng ngọc trai phối xanh đỏ",
+          "hex": "#F5F3ED / #17355E / #C62828",
+          "size": "M",
+          "stock": 26
+        },
+        {
+          "sku": "MBH-YEN-20-TRANG-NGOC-TRAI-PHOI-XANH-DO-L",
+          "color": "Trắng ngọc trai phối xanh đỏ",
+          "hex": "#F5F3ED / #17355E / #C62828",
+          "size": "L",
+          "stock": 29
+        },
+        {
+          "sku": "MBH-YEN-20-TRANG-NGOC-TRAI-PHOI-XANH-DO-XL",
+          "color": "Trắng ngọc trai phối xanh đỏ",
+          "hex": "#F5F3ED / #17355E / #C62828",
+          "size": "XL",
+          "stock": 19
+        }
+      ]
+    },
+    {
+      "code": "MBH-YEN-21",
+      "slug": "mu-bao-hiem-uel-powder-blue",
+      "name": "Mũ bảo hiểm UEL Powder Blue",
+      "price": 319000,
+      "description": "Mũ nửa đầu xanh phấn, chữ UEL xanh navy, đường nét mềm và trẻ; phù hợp di chuyển hằng ngày.",
+      "material": "Vỏ ABS; lõi EPS; lót vải thoáng khí",
+      "care": "Lau bằng khăn ẩm; giặt tay phần lót; tránh va đập và nhiệt cao; thay mũ sau va chạm mạnh.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/mbh-yen-21/1.webp",
+        "images/products/mbh-yen-21/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MBH-YEN-21-XANH-PHAN-M",
+          "color": "Xanh phấn",
+          "hex": "#A9D6E5",
+          "size": "M",
+          "stock": 22
+        },
+        {
+          "sku": "MBH-YEN-21-XANH-PHAN-L",
+          "color": "Xanh phấn",
+          "hex": "#A9D6E5",
+          "size": "L",
+          "stock": 32
+        },
+        {
+          "sku": "MBH-YEN-21-XANH-PHAN-XL",
+          "color": "Xanh phấn",
+          "hex": "#A9D6E5",
+          "size": "XL",
+          "stock": 22
+        }
+      ]
+    },
+    {
+      "code": "NL-YEN-27",
+      "slug": "non-luoi-trai-uel-classic-cap",
+      "name": "Nón lưỡi trai UEL Classic Cap",
+      "price": 149000,
+      "description": "Nón lưỡi trai xanh navy form sáu múi, thêu chữ UEL trắng phía trước. Phía sau có khóa điều chỉnh và dòng EST. 2010.",
+      "material": "Cotton twill dày vừa, khóa kim loại điều chỉnh",
+      "care": "Giặt tay nhẹ bằng nước mát; không ngâm lâu; nhồi giấy khi phơi để giữ form; tránh giặt máy và sấy nóng",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/nl-yen-27/1.webp",
+        "images/products/nl-yen-27/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "NL-YEN-27-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "Free size",
+          "stock": 60
+        }
+      ]
+    },
+    {
+      "code": "BN-YEN-29",
+      "slug": "binh-nuoc-uel-campus-bottle",
+      "name": "Bình nước UEL Campus Bottle",
+      "price": 189000,
+      "description": "Bình giữ nhiệt 600 ml màu xanh phấn, nắp bật có quai cầm. Chữ UEL xanh navy được in dọc thân bình theo phong cách tối giản.",
+      "material": "Inox hai lớp, lớp phủ sơn tĩnh điện và nắp nhựa PP",
+      "care": "Rửa tay bằng dung dịch dịu nhẹ; không dùng búi sắt; không cho vào lò vi sóng hoặc máy rửa chén; để khô mở nắp",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/bn-yen-29/1.webp",
+        "images/products/bn-yen-29/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "BN-YEN-29-XANH-PHAN-FREE-SIZE",
+          "color": "Xanh phấn",
+          "hex": "#A9D6E5",
+          "size": "Free size",
+          "stock": 50
+        }
+      ]
+    },
+    {
+      "code": "OD-YEN-30",
+      "slug": "o-gap-uel-rainy-campus",
+      "name": "Ô gấp UEL Rainy Campus",
+      "price": 239000,
+      "description": "Ô gấp tự động màu xanh navy phối viền xanh nhạt. Mặt ngoài in chữ UEL trắng; mặt trong có họa tiết line-art khuôn viên trường.",
+      "material": "Vải polyester chống nước, khung thép sơn đen và tay cầm nhựa ABS",
+      "care": "Lau bằng khăn ẩm; mở ô hong khô hoàn toàn trước khi gấp; tránh chất tẩy và không cất khi còn ướt",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/od-yen-30/1.webp",
+        "images/products/od-yen-30/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "OD-YEN-30-XANH-NAVY-PHOI-XANH-NHAT-FREE-SIZE",
+          "color": "Xanh navy phối xanh nhạt",
+          "hex": "#182849 / #8ECDEB",
+          "size": "Free size",
+          "stock": 40
+        }
+      ]
+    },
+    {
+      "code": "MY-05",
+      "slug": "moc-khoa-uel-little-planet",
+      "name": "Móc khóa UEL Little Planet",
+      "price": 49000,
+      "description": "Móc khóa hình hành tinh nhỏ, có khoen kim loại; dùng trang trí chìa khóa, balo hoặc túi tote.",
+      "material": "Acrylic và hợp kim kẽm",
+      "care": "Tránh ngâm nước lâu; lau bằng khăn mềm khi bám bẩn; bảo quản nơi khô ráo.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "graduation-memory",
+      "images": [
+        "images/products/my-05/1.webp",
+        "images/products/my-05/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-05-TRONG-SUOT-FREE-SIZE",
+          "color": "Trong suốt",
+          "hex": "#D7E1E5",
+          "size": "Free size",
+          "stock": 40
+        }
+      ]
+    },
+    {
+      "code": "MY-06",
+      "slug": "tat-co-trung-uel-campus-crew",
+      "name": "Tất cổ trung UEL Campus Crew",
+      "price": 69000,
+      "description": "Tất cổ trung màu trắng ngà với đường viền xanh navy, thiết kế dễ phối cùng sneaker.",
+      "material": "Cotton pha spandex",
+      "care": "Giặt với đồ cùng màu; tránh nước quá nóng; phơi nơi thoáng mát.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/my-06/1.webp",
+        "images/products/my-06/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-06-TRANG-NGA-FREE-SIZE",
+          "color": "Trắng ngà",
+          "hex": "#F1EBDD",
+          "size": "Free size",
+          "stock": 45
+        }
+      ]
+    },
+    {
+      "code": "MY-07",
+      "slug": "binh-nuoc-uel-aqua-loop-650ml",
+      "name": "Bình nước UEL Aqua Loop 650ml",
+      "price": 159000,
+      "description": "Bình nước dung tích 650ml, thân trong mờ và vạch chia dung tích; thuận tiện mang đến lớp.",
+      "material": "Tritan, nắp PP và vòng xách silicone",
+      "care": "Rửa sạch trước khi dùng; vệ sinh nắp thường xuyên; không dùng với đồ uống quá nóng nếu nhà sản xuất không cho phép.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/my-07/1.webp",
+        "images/products/my-07/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-07-XANH-AQUA-FREE-SIZE",
+          "color": "Xanh aqua",
+          "hex": "#8FC8D5",
+          "size": "Free size",
+          "stock": 32
+        }
+      ]
+    },
+    {
+      "code": "MY-08",
+      "slug": "binh-nuoc-uel-thermo-day-500ml",
+      "name": "Bình nước UEL Thermo Day 500ml",
+      "price": 229000,
+      "description": "Bình giữ nhiệt 500ml màu xanh rêu, nắp vặn kín và kiểu dáng gọn để mang theo hằng ngày.",
+      "material": "Thép không gỉ hai lớp",
+      "care": "Rửa bằng miếng bọt biển mềm; không dùng chất tẩy ăn mòn; để khô hoàn toàn khi không sử dụng.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/my-08/1.webp",
+        "images/products/my-08/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-08-XANH-REU-FREE-SIZE",
+          "color": "Xanh rêu",
+          "hex": "#65765A",
+          "size": "Free size",
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "code": "MY-29",
+      "slug": "vi-dung-the-uel-tap-and-go",
+      "name": "Ví đựng thẻ UEL Tap & Go",
+      "price": 79000,
+      "description": "Ví đựng thẻ nhỏ gọn có khe thẻ và dây đeo ngắn, tiện mang theo trong khuôn viên trường.",
+      "material": "Vải polyester dệt và lớp lót",
+      "care": "Lau bằng khăn ẩm; không giặt máy; tránh để gần nguồn nhiệt.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/my-29/1.webp",
+        "images/products/my-29/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-29-DEN-FREE-SIZE",
+          "color": "Đen",
+          "hex": "#202020",
+          "size": "Free size",
+          "stock": 28
+        },
+        {
+          "sku": "MY-29-KEM-FREE-SIZE",
+          "color": "Kem",
+          "hex": "#F0E6D8",
+          "size": "Free size",
+          "stock": 22
+        },
+        {
+          "sku": "MY-29-NAU-FREE-SIZE",
+          "color": "Nâu",
+          "hex": "#805A3B",
+          "size": "Free size",
+          "stock": 39
+        },
+        {
+          "sku": "MY-29-XANH-LA-FREE-SIZE",
+          "color": "Xanh lá",
+          "hex": "#477A55",
+          "size": "Free size",
+          "stock": 24
+        }
+      ]
+    },
+    {
+      "code": "MY-30",
+      "slug": "mu-luoi-trai-uel-campus-day",
+      "name": "Mũ lưỡi trai UEL Campus Day",
+      "price": 119000,
+      "description": "Mũ lưỡi trai màu xanh navy, khóa điều chỉnh phía sau và logo thêu tối giản.",
+      "material": "Cotton twill",
+      "care": "Làm sạch bằng khăn mềm hoặc giặt tay; không vắt xoắn; phơi nơi thoáng mát.",
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/my-30/1.webp",
+        "images/products/my-30/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "MY-30-KEM-FREE-SIZE",
+          "color": "Kem",
+          "hex": "#F0E6D8",
+          "size": "Free size",
+          "stock": 26
+        },
+        {
+          "sku": "MY-30-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#142B4A",
+          "size": "Free size",
+          "stock": 35
+        }
+      ]
+    },
+    {
+      "code": "PK-HAT-23",
+      "slug": "mu-luoi-trai-uel-classic-two-tone",
+      "name": "Mũ lưỡi trai UEL Classic Two-tone",
+      "price": 199000,
+      "description": "Mũ lưỡi trai dáng cong, thân màu trắng ngà, vành xanh navy và logo UEL ở mặt trước. Mặt sau thể hiện dây điều chỉnh và khóa, phong cách tối giản phù hợp bộ sản phẩm dành cho sinh viên.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-hat-23/1.webp",
+        "images/products/pk-hat-23/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-HAT-23-TRANG-NGA-NAVY-FREE-SIZE",
+          "color": "Trắng ngà navy",
+          "hex": "#F4F2EC",
+          "size": "Free size",
+          "stock": 26
+        }
+      ]
+    },
+    {
+      "code": "PK-HAT-24",
+      "slug": "mu-visor-the-thao-uel-airflow-trang-xanh",
+      "name": "Mũ visor thể thao UEL Airflow - Trắng Xanh",
+      "price": 189000,
+      "description": "Mũ visor thể thao UEL Airflow - Trắng Xanh. Phối màu: Trắng phối xanh UEL và xám.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-hat-24/1.webp",
+        "images/products/pk-hat-24/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-HAT-24-TRANG-XANH-FREE-SIZE",
+          "color": "Trắng xanh",
+          "hex": "#F4F2EC",
+          "size": "Free size",
+          "stock": 39
+        }
+      ]
+    },
+    {
+      "code": "PK-HAT-25",
+      "slug": "mu-luoi-trai-uel-campus-navy-xanh-navy",
+      "name": "Mũ lưỡi trai UEL Campus Navy - Xanh Navy",
+      "price": 199000,
+      "description": "Mũ lưỡi trai UEL Campus Navy - Xanh Navy. Phối màu: Xanh navy, chữ UEL trắng.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-hat-25/1.webp",
+        "images/products/pk-hat-25/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-HAT-25-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "Free size",
+          "stock": 33
+        }
+      ]
+    },
+    {
+      "code": "PK-HAT-26",
+      "slug": "mu-chay-bo-uel-performance-trang-xam",
+      "name": "Mũ chạy bộ UEL Performance - Trắng Xám",
+      "price": 179000,
+      "description": "Mũ chạy bộ UEL Performance - Trắng Xám. Phối màu: Trắng phối xám và xanh UEL.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-hat-26/1.webp",
+        "images/products/pk-hat-26/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-HAT-26-TRANG-XAM-FREE-SIZE",
+          "color": "Trắng xám",
+          "hex": "#F4F2EC",
+          "size": "Free size",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "PK-HAT-27",
+      "slug": "mu-visor-the-thao-uel-airflow-trang-xanh-pk-hat-27",
+      "name": "Mũ visor thể thao UEL AirFlow - Trắng/Xanh",
+      "price": 189000,
+      "description": "Mẫu hướng tới phong cách thể thao năng động.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-hat-27/1.webp",
+        "images/products/pk-hat-27/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-HAT-27-TRANG-XANH-FREE-SIZE",
+          "color": "Trắng xanh",
+          "hex": "#F4F2EC",
+          "size": "Free size",
+          "stock": 37
+        }
+      ]
+    },
+    {
+      "code": "PK-HAT-28",
+      "slug": "mu-luoi-trai-uel-campus-classic-xanh-navy",
+      "name": "Mũ lưỡi trai UEL Campus Classic - Xanh Navy",
+      "price": 179000,
+      "description": "Mũ lưỡi trai xanh navy, thân mũ thiết kế sáu múi, logo chữ UEL và biểu tượng sách thêu trắng ở phía trước. Phù hợp phong cách sinh viên tối giản.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-hat-28/1.webp",
+        "images/products/pk-hat-28/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-HAT-28-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#1F2A44",
+          "size": "Free size",
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "code": "PK-HAT-29",
+      "slug": "mu-chay-bo-uel-aero-performance-trang-xam",
+      "name": "Mũ chạy bộ UEL Aero Performance - Trắng/Xám",
+      "price": 189000,
+      "description": "Mũ thể thao trắng có thiết kế lỗ thông khí ở phần trước và hai bên thân mũ, logo UEL màu xanh ở giữa. Phong cách hướng đến sinh hoạt và vận động ngoài trời.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-hat-29/1.webp",
+        "images/products/pk-hat-29/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-HAT-29-TRANG-XAM-FREE-SIZE",
+          "color": "Trắng xám",
+          "hex": "#F4F2EC",
+          "size": "Free size",
+          "stock": 29
+        }
+      ]
+    },
+    {
+      "code": "PK-HAT-30",
+      "slug": "mu-tai-beo-uel-campus-bucket-kem-navy",
+      "name": "Mũ tai bèo UEL Campus Bucket - Kem/Navy",
+      "price": 199000,
+      "description": "Mũ tai bèo màu kem với dáng vành tròn, đường may đồng tâm nổi bật và logo UEL màu xanh navy ở phía trước. Phong cách tối giản, hướng đến sinh viên sử dụng trong sinh hoạt hoặc hoạt động ngoài trời.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-hat-30/1.webp",
+        "images/products/pk-hat-30/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-HAT-30-KEM-NAVY-FREE-SIZE",
+          "color": "Kem navy",
+          "hex": "#EAE2D2",
+          "size": "Free size",
+          "stock": 29
+        }
+      ]
+    },
+    {
+      "code": "PK-SANDALS-14",
+      "slug": "sandal-uel-campus-sport-trang-xanh",
+      "name": "Sandal UEL Campus Sport - Trắng xanh",
+      "price": 259000,
+      "description": "Mẫu sandal UEL sử dụng tông trắng và xanh dương, tạo cảm giác năng động cho sinh viên.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-sandals-14/1.webp",
+        "images/products/pk-sandals-14/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SANDALS-14-TRANG-XANH-37",
+          "color": "Trắng xanh",
+          "hex": "#F4F2EC",
+          "size": "37",
+          "stock": 37
+        },
+        {
+          "sku": "PK-SANDALS-14-TRANG-XANH-38",
+          "color": "Trắng xanh",
+          "hex": "#F4F2EC",
+          "size": "38",
+          "stock": 20
+        },
+        {
+          "sku": "PK-SANDALS-14-TRANG-XANH-39",
+          "color": "Trắng xanh",
+          "hex": "#F4F2EC",
+          "size": "39",
+          "stock": 10
+        },
+        {
+          "sku": "PK-SANDALS-14-TRANG-XANH-40",
+          "color": "Trắng xanh",
+          "hex": "#F4F2EC",
+          "size": "40",
+          "stock": 36
+        },
+        {
+          "sku": "PK-SANDALS-14-TRANG-XANH-41",
+          "color": "Trắng xanh",
+          "hex": "#F4F2EC",
+          "size": "41",
+          "stock": 13
+        },
+        {
+          "sku": "PK-SANDALS-14-TRANG-XANH-42",
+          "color": "Trắng xanh",
+          "hex": "#F4F2EC",
+          "size": "42",
+          "stock": 23
+        }
+      ]
+    },
+    {
+      "code": "PK-SANDALS-15",
+      "slug": "sandal-uel-sky-blue",
+      "name": "Sandal UEL Sky Blue",
+      "price": 269000,
+      "description": "Sandal thân kem với đế xanh da trời và logo UEL xanh, tông màu nhẹ nhàng cho những ngày dạo quanh trường.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-sandals-15/1.webp",
+        "images/products/pk-sandals-15/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SANDALS-15-KEM-XANH-DA-TROI-37",
+          "color": "Kem xanh da trời",
+          "hex": "#EAE2D2",
+          "size": "37",
+          "stock": 10
+        },
+        {
+          "sku": "PK-SANDALS-15-KEM-XANH-DA-TROI-38",
+          "color": "Kem xanh da trời",
+          "hex": "#EAE2D2",
+          "size": "38",
+          "stock": 39
+        },
+        {
+          "sku": "PK-SANDALS-15-KEM-XANH-DA-TROI-39",
+          "color": "Kem xanh da trời",
+          "hex": "#EAE2D2",
+          "size": "39",
+          "stock": 16
+        },
+        {
+          "sku": "PK-SANDALS-15-KEM-XANH-DA-TROI-40",
+          "color": "Kem xanh da trời",
+          "hex": "#EAE2D2",
+          "size": "40",
+          "stock": 18
+        },
+        {
+          "sku": "PK-SANDALS-15-KEM-XANH-DA-TROI-41",
+          "color": "Kem xanh da trời",
+          "hex": "#EAE2D2",
+          "size": "41",
+          "stock": 8
+        },
+        {
+          "sku": "PK-SANDALS-15-KEM-XANH-DA-TROI-42",
+          "color": "Kem xanh da trời",
+          "hex": "#EAE2D2",
+          "size": "42",
+          "stock": 38
+        }
+      ]
+    },
+    {
+      "code": "PK-SANDALS-16",
+      "slug": "sandal-uel-sport-black",
+      "name": "Sandal UEL Sport Black",
+      "price": 249000,
+      "description": "Sandal quai đen phối đế kem, logo UEL trắng tương phản, phong cách thể thao tối giản.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-sandals-16/1.webp",
+        "images/products/pk-sandals-16/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SANDALS-16-DEN-KEM-37",
+          "color": "Đen kem",
+          "hex": "#1A1A1A",
+          "size": "37",
+          "stock": 9
+        },
+        {
+          "sku": "PK-SANDALS-16-DEN-KEM-38",
+          "color": "Đen kem",
+          "hex": "#1A1A1A",
+          "size": "38",
+          "stock": 18
+        },
+        {
+          "sku": "PK-SANDALS-16-DEN-KEM-39",
+          "color": "Đen kem",
+          "hex": "#1A1A1A",
+          "size": "39",
+          "stock": 8
+        },
+        {
+          "sku": "PK-SANDALS-16-DEN-KEM-40",
+          "color": "Đen kem",
+          "hex": "#1A1A1A",
+          "size": "40",
+          "stock": 12
+        },
+        {
+          "sku": "PK-SANDALS-16-DEN-KEM-41",
+          "color": "Đen kem",
+          "hex": "#1A1A1A",
+          "size": "41",
+          "stock": 22
+        },
+        {
+          "sku": "PK-SANDALS-16-DEN-KEM-42",
+          "color": "Đen kem",
+          "hex": "#1A1A1A",
+          "size": "42",
+          "stock": 25
+        }
+      ]
+    },
+    {
+      "code": "PK-SANDALS-17",
+      "slug": "sandal-uel-pastel-pink",
+      "name": "Sandal UEL Pastel Pink",
+      "price": 259000,
+      "description": "Sandal thân kem với viền và đế hồng pastel, logo UEL hồng tạo điểm nhấn dịu dàng.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-sandals-17/1.webp",
+        "images/products/pk-sandals-17/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SANDALS-17-KEM-HONG-PASTEL-37",
+          "color": "Kem hồng pastel",
+          "hex": "#E8B4C0",
+          "size": "37",
+          "stock": 12
+        },
+        {
+          "sku": "PK-SANDALS-17-KEM-HONG-PASTEL-38",
+          "color": "Kem hồng pastel",
+          "hex": "#E8B4C0",
+          "size": "38",
+          "stock": 29
+        },
+        {
+          "sku": "PK-SANDALS-17-KEM-HONG-PASTEL-39",
+          "color": "Kem hồng pastel",
+          "hex": "#E8B4C0",
+          "size": "39",
+          "stock": 39
+        },
+        {
+          "sku": "PK-SANDALS-17-KEM-HONG-PASTEL-40",
+          "color": "Kem hồng pastel",
+          "hex": "#E8B4C0",
+          "size": "40",
+          "stock": 40
+        },
+        {
+          "sku": "PK-SANDALS-17-KEM-HONG-PASTEL-41",
+          "color": "Kem hồng pastel",
+          "hex": "#E8B4C0",
+          "size": "41",
+          "stock": 30
+        },
+        {
+          "sku": "PK-SANDALS-17-KEM-HONG-PASTEL-42",
+          "color": "Kem hồng pastel",
+          "hex": "#E8B4C0",
+          "size": "42",
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "code": "PK-SANDALS-18",
+      "slug": "sandal-uel-olive-trek-kem-xanh-olive",
+      "name": "Sandal UEL Olive Trek - Kem / Xanh Olive",
+      "price": 249000,
+      "description": "Mẫu sandal quai dán phong cách outdoor, thân kem với các chi tiết xanh olive. Mặt trước có logo UEL, đế dày nhiều lớp với họa tiết vân đế.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-sandals-18/1.webp",
+        "images/products/pk-sandals-18/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SANDALS-18-KEM-XANH-OLIVE-37",
+          "color": "Kem xanh olive",
+          "hex": "#6B7A3A",
+          "size": "37",
+          "stock": 29
+        },
+        {
+          "sku": "PK-SANDALS-18-KEM-XANH-OLIVE-38",
+          "color": "Kem xanh olive",
+          "hex": "#6B7A3A",
+          "size": "38",
+          "stock": 31
+        },
+        {
+          "sku": "PK-SANDALS-18-KEM-XANH-OLIVE-39",
+          "color": "Kem xanh olive",
+          "hex": "#6B7A3A",
+          "size": "39",
+          "stock": 21
+        },
+        {
+          "sku": "PK-SANDALS-18-KEM-XANH-OLIVE-40",
+          "color": "Kem xanh olive",
+          "hex": "#6B7A3A",
+          "size": "40",
+          "stock": 13
+        },
+        {
+          "sku": "PK-SANDALS-18-KEM-XANH-OLIVE-41",
+          "color": "Kem xanh olive",
+          "hex": "#6B7A3A",
+          "size": "41",
+          "stock": 23
+        },
+        {
+          "sku": "PK-SANDALS-18-KEM-XANH-OLIVE-42",
+          "color": "Kem xanh olive",
+          "hex": "#6B7A3A",
+          "size": "42",
+          "stock": 33
+        }
+      ]
+    },
+    {
+      "code": "PK-SANDALS-19",
+      "slug": "sandal-uel-midnight-active-den",
+      "name": "Sandal UEL Midnight Active - Đen",
+      "price": 259000,
+      "description": "Mẫu sandal quai dán tông tối, quai và đế đen đồng bộ, logo UEL trắng tương phản. Phong cách thể thao tối giản, dễ phối trang phục hằng ngày.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-sandals-19/1.webp",
+        "images/products/pk-sandals-19/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SANDALS-19-DEN-37",
+          "color": "Đen",
+          "hex": "#1A1A1A",
+          "size": "37",
+          "stock": 33
+        },
+        {
+          "sku": "PK-SANDALS-19-DEN-38",
+          "color": "Đen",
+          "hex": "#1A1A1A",
+          "size": "38",
+          "stock": 15
+        },
+        {
+          "sku": "PK-SANDALS-19-DEN-39",
+          "color": "Đen",
+          "hex": "#1A1A1A",
+          "size": "39",
+          "stock": 25
+        },
+        {
+          "sku": "PK-SANDALS-19-DEN-40",
+          "color": "Đen",
+          "hex": "#1A1A1A",
+          "size": "40",
+          "stock": 9
+        },
+        {
+          "sku": "PK-SANDALS-19-DEN-41",
+          "color": "Đen",
+          "hex": "#1A1A1A",
+          "size": "41",
+          "stock": 32
+        },
+        {
+          "sku": "PK-SANDALS-19-DEN-42",
+          "color": "Đen",
+          "hex": "#1A1A1A",
+          "size": "42",
+          "stock": 29
+        }
+      ]
+    },
+    {
+      "code": "PK-SANDALS-20",
+      "slug": "sandal-uel-lilac-breeze-kem-tim-lavender",
+      "name": "Sandal UEL Lilac Breeze - Kem / Tím Lavender",
+      "price": 259000,
+      "description": "Mẫu sandal quai dán tông sáng, kết hợp quai kem với đế và chi tiết tím lavender. Logo UEL tím và vân đế tạo điểm nhấn nhẹ nhàng.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-sandals-20/1.webp",
+        "images/products/pk-sandals-20/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SANDALS-20-KEM-TIM-LAVENDER-37",
+          "color": "Kem tím lavender",
+          "hex": "#B9A6D6",
+          "size": "37",
+          "stock": 28
+        },
+        {
+          "sku": "PK-SANDALS-20-KEM-TIM-LAVENDER-38",
+          "color": "Kem tím lavender",
+          "hex": "#B9A6D6",
+          "size": "38",
+          "stock": 24
+        },
+        {
+          "sku": "PK-SANDALS-20-KEM-TIM-LAVENDER-39",
+          "color": "Kem tím lavender",
+          "hex": "#B9A6D6",
+          "size": "39",
+          "stock": 34
+        },
+        {
+          "sku": "PK-SANDALS-20-KEM-TIM-LAVENDER-40",
+          "color": "Kem tím lavender",
+          "hex": "#B9A6D6",
+          "size": "40",
+          "stock": 36
+        },
+        {
+          "sku": "PK-SANDALS-20-KEM-TIM-LAVENDER-41",
+          "color": "Kem tím lavender",
+          "hex": "#B9A6D6",
+          "size": "41",
+          "stock": 26
+        },
+        {
+          "sku": "PK-SANDALS-20-KEM-TIM-LAVENDER-42",
+          "color": "Kem tím lavender",
+          "hex": "#B9A6D6",
+          "size": "42",
+          "stock": 23
+        }
+      ]
+    },
+    {
+      "code": "PK-SANDALS-21",
+      "slug": "sandal-uel-terra-campus",
+      "name": "Sandal UEL Terra Campus",
+      "price": 249000,
+      "description": "Sandal quai dán phong cách năng động, phối kem cùng sắc nâu đất ấm áp. Logo UEL được đặt trên quai, thiết kế hai quai phía trước và quai hậu có thể điều chỉnh.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-sandals-21/1.webp",
+        "images/products/pk-sandals-21/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SANDALS-21-KEM-NAU-DAT-37",
+          "color": "Kem nâu đất",
+          "hex": "#8A5A3C",
+          "size": "37",
+          "stock": 27
+        },
+        {
+          "sku": "PK-SANDALS-21-KEM-NAU-DAT-38",
+          "color": "Kem nâu đất",
+          "hex": "#8A5A3C",
+          "size": "38",
+          "stock": 10
+        },
+        {
+          "sku": "PK-SANDALS-21-KEM-NAU-DAT-39",
+          "color": "Kem nâu đất",
+          "hex": "#8A5A3C",
+          "size": "39",
+          "stock": 33
+        },
+        {
+          "sku": "PK-SANDALS-21-KEM-NAU-DAT-40",
+          "color": "Kem nâu đất",
+          "hex": "#8A5A3C",
+          "size": "40",
+          "stock": 23
+        },
+        {
+          "sku": "PK-SANDALS-21-KEM-NAU-DAT-41",
+          "color": "Kem nâu đất",
+          "hex": "#8A5A3C",
+          "size": "41",
+          "stock": 33
+        },
+        {
+          "sku": "PK-SANDALS-21-KEM-NAU-DAT-42",
+          "color": "Kem nâu đất",
+          "hex": "#8A5A3C",
+          "size": "42",
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "code": "PK-SANDALS-22",
+      "slug": "sandal-uel-navy-motion",
+      "name": "Sandal UEL Navy Motion",
+      "price": 249000,
+      "description": "Sandal thể thao phối xanh navy và kem, điểm nhấn là logo UEL trên quai giữa. Phối màu trầm giúp tạo khác biệt với các mẫu pastel của bộ sưu tập.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-sandals-22/1.webp",
+        "images/products/pk-sandals-22/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SANDALS-22-KEM-XANH-NAVY-37",
+          "color": "Kem xanh navy",
+          "hex": "#1F2A44",
+          "size": "37",
+          "stock": 32
+        },
+        {
+          "sku": "PK-SANDALS-22-KEM-XANH-NAVY-38",
+          "color": "Kem xanh navy",
+          "hex": "#1F2A44",
+          "size": "38",
+          "stock": 16
+        },
+        {
+          "sku": "PK-SANDALS-22-KEM-XANH-NAVY-39",
+          "color": "Kem xanh navy",
+          "hex": "#1F2A44",
+          "size": "39",
+          "stock": 26
+        },
+        {
+          "sku": "PK-SANDALS-22-KEM-XANH-NAVY-40",
+          "color": "Kem xanh navy",
+          "hex": "#1F2A44",
+          "size": "40",
+          "stock": 27
+        },
+        {
+          "sku": "PK-SANDALS-22-KEM-XANH-NAVY-41",
+          "color": "Kem xanh navy",
+          "hex": "#1F2A44",
+          "size": "41",
+          "stock": 17
+        },
+        {
+          "sku": "PK-SANDALS-22-KEM-XANH-NAVY-42",
+          "color": "Kem xanh navy",
+          "hex": "#1F2A44",
+          "size": "42",
+          "stock": 40
+        }
+      ]
+    },
+    {
+      "code": "PK-SOCKS-01",
+      "slug": "tat-co-cao-uel-classic-den",
+      "name": "Tất cổ cao UEL Classic - Đen",
+      "price": 69000,
+      "description": "Tất cổ cao màu đen với logo UEL xanh và một đường viền xanh ở cổ tất, dễ phối cùng giày thể thao khi đến lớp.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-socks-01/1.webp",
+        "images/products/pk-socks-01/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SOCKS-01-DEN-FREE-SIZE",
+          "color": "Đen",
+          "hex": "#1A1A1A",
+          "size": "Free size",
+          "stock": 26
+        }
+      ]
+    },
+    {
+      "code": "PK-SOCKS-02",
+      "slug": "tat-co-cao-uel-classic-trang",
+      "name": "Tất cổ cao UEL Classic - Trắng",
+      "price": 69000,
+      "description": "Tất cổ cao màu trắng với logo UEL xanh và họa tiết thanh dọc xanh ở mặt sau, phong cách gọn gàng cho ngày thường.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-socks-02/1.webp",
+        "images/products/pk-socks-02/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SOCKS-02-TRANG-FREE-SIZE",
+          "color": "Trắng",
+          "hex": "#F4F2EC",
+          "size": "Free size",
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "code": "PK-SOCKS-03",
+      "slug": "tat-co-cao-uel-varsity-den",
+      "name": "Tất cổ cao UEL Varsity - Đen",
+      "price": 79000,
+      "description": "Tất cổ cao màu đen theo phong cách varsity, logo UEL xanh và trắng, viền cổ tất xanh cùng họa tiết thanh dọc ở mặt sau.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-socks-03/1.webp",
+        "images/products/pk-socks-03/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SOCKS-03-DEN-FREE-SIZE",
+          "color": "Đen",
+          "hex": "#1A1A1A",
+          "size": "Free size",
+          "stock": 37
+        }
+      ]
+    },
+    {
+      "code": "PK-SOCKS-04",
+      "slug": "tat-co-cao-uel-sportline-trang-xanh",
+      "name": "Tất cổ cao UEL Sportline - Trắng Xanh",
+      "price": 69000,
+      "description": "Tất cổ cao màu trắng với gót và mũi tất xanh, logo UEL xanh và họa tiết thanh dọc ở mặt sau, hợp cho giờ thể thao.",
+      "material": null,
+      "care": null,
+      "sold": 0,
+      "category": "phu-kien",
+      "collection": "hanh-trang-nhap-hoc",
+      "images": [
+        "images/products/pk-socks-04/1.webp",
+        "images/products/pk-socks-04/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "PK-SOCKS-04-TRANG-XANH-FREE-SIZE",
+          "color": "Trắng xanh",
+          "hex": "#F4F2EC",
+          "size": "Free size",
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "code": "QT-THU-10",
+      "slug": "hop-qua-uel-graduation-memory",
+      "name": "Hộp quà UEL Graduation Memory",
+      "price": 299000,
+      "description": "Set quà tốt nghiệp màu xanh navy và vàng gồm hộp cứng, móc khóa mũ cử nhân, huy hiệu, thiệp và huy chương lưu niệm. Phần nắp có họa tiết khuôn viên và chữ Graduation Memory. Món quà tượng trưng cho hành trình trưởng thành của sinh viên.",
+      "material": "Hộp giấy cứng bọc vân giả da, phụ kiện kim loại",
+      "care": "Bảo quản nơi khô ráo; không làm ướt hộp giấy",
+      "sold": 0,
+      "category": "qua-tot-nghiep",
+      "collection": "graduation-memory",
+      "images": [
+        "images/products/qt-thu-10/1.webp",
+        "images/products/qt-thu-10/2.webp"
+      ],
+      "variants": [
+        {
+          "sku": "QT-THU-10-XANH-NAVY-FREE-SIZE",
+          "color": "Xanh navy",
+          "hex": "#182849",
+          "size": "Free size",
+          "stock": 22
+        }
+      ]
+    }
+  ]
+}

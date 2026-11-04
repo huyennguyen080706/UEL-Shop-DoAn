@@ -1,0 +1,473 @@
+/* admin.css: trang quản trị bản tĩnh. Dùng lại token màu/chữ trong base.css. */
+
+body[data-page="admin"] {
+  background: var(--ground);
+}
+
+/* ---------- Cổng đăng nhập ---------- */
+.admin-gate {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: var(--gutter);
+}
+.admin-gate[hidden],
+.admin-shell[hidden] {
+  display: none;
+}
+.gate-card {
+  width: min(420px, 100%);
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 36px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-shadow: 0 18px 50px rgba(22, 69, 116, 0.1); /* taste-skill-ignore: thẻ đăng nhập nổi trên nền, bóng nhẹ */
+}
+.gate-logo {
+  height: 42px;
+  width: auto;
+  margin-bottom: 6px;
+}
+.gate-card h1 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+.gate-card .field {
+  width: 100%;
+}
+.field-label {
+  font-size: var(--step-small);
+  font-weight: 600;
+  margin-top: 6px;
+}
+.gate-card .btn {
+  margin-top: 6px;
+}
+.gate-card .link {
+  text-align: center;
+  margin-top: 4px;
+}
+.gate-error {
+  color: var(--error);
+  font-size: var(--step-small);
+  margin: 0;
+}
+
+/* ---------- Khung chung ---------- */
+.admin-top {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: #fff;
+  border-bottom: 1px solid var(--line);
+}
+.admin-top-inner {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  min-height: 64px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  flex-wrap: wrap;
+}
+.admin-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--ink);
+}
+.admin-brand img {
+  height: 34px;
+  width: auto;
+}
+.admin-brand span {
+  font-weight: 600;
+  font-size: var(--step-small);
+  color: var(--soft);
+  border-left: 1px solid var(--line);
+  padding-left: 10px;
+}
+.admin-tabs {
+  display: flex;
+  gap: 4px;
+}
+.admin-tab {
+  border: 0;
+  background: transparent;
+  font: inherit;
+  font-weight: 600;
+  color: var(--soft);
+  padding: 8px 16px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.admin-tab:hover {
+  color: var(--ink);
+  background: var(--surface);
+}
+.admin-tab.is-active {
+  color: #fff;
+  background: var(--navy);
+}
+.admin-top-tools {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.admin-main {
+  padding-top: 28px;
+  padding-bottom: 80px;
+}
+.admin-panel[hidden] {
+  display: none;
+}
+.panel-head {
+  margin-bottom: 20px;
+}
+.panel-head h2 {
+  margin: 0 0 4px;
+  font-size: var(--step-head);
+}
+.panel-head code {
+  background: var(--surface);
+  padding: 1px 6px;
+  border-radius: 5px;
+  font-size: 0.85em;
+}
+
+.btn-sm {
+  padding: 8px 14px;
+  font-size: var(--step-small);
+}
+
+/* ---------- Thẻ thống kê ---------- */
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 14px;
+  margin-bottom: 24px;
+}
+.stat-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 16px 18px;
+}
+.stat-card .k {
+  font-size: var(--step-small);
+  color: var(--soft);
+  font-weight: 600;
+}
+.stat-card .v {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-top: 4px;
+}
+
+/* ---------- Bảng ---------- */
+.table-wrap {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  overflow: hidden;
+}
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+.admin-table th,
+.admin-table td {
+  text-align: left;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--line); /* taste-skill-ignore: bảng dữ liệu, kẻ dòng cho dễ đọc */
+  vertical-align: middle;
+}
+.admin-table thead th {
+  background: var(--surface);
+  font-size: var(--step-small);
+  color: var(--soft);
+  font-weight: 600;
+  border-bottom: 1px solid var(--line);
+}
+.admin-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+.admin-table tbody tr:hover {
+  background: #f8fafc;
+}
+.admin-table .num {
+  text-align: right;
+}
+.admin-table .thumb {
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+  border-radius: 8px;
+  background: var(--surface);
+  display: block;
+}
+.row-detail td {
+  background: #f8fafc;
+}
+.row-actions {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+/* mã đơn/sku dạng số đều */
+.mono {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.01em;
+}
+
+/* ---------- Nhãn trạng thái ---------- */
+.status-select {
+  font: inherit;
+  font-size: var(--step-small);
+  font-weight: 600;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: #fff;
+  cursor: pointer;
+}
+.status-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 7px;
+  vertical-align: middle;
+}
+.s-PENDING { color: #8a5a00; }
+.s-PENDING .status-dot, .dot-PENDING { background: #e0a106; }
+.s-CONFIRMED { color: var(--navy); }
+.s-CONFIRMED .status-dot, .dot-CONFIRMED { background: var(--navy); }
+.s-READY { color: #6d3bbf; }
+.s-READY .status-dot, .dot-READY { background: #7b4fd1; }
+.s-COMPLETED { color: var(--ok); }
+.s-COMPLETED .status-dot, .dot-COMPLETED { background: var(--ok); }
+.s-CANCELLED { color: var(--error); }
+.s-CANCELLED .status-dot, .dot-CANCELLED { background: var(--error); }
+
+/* ---------- Chi tiết đơn ---------- */
+.order-detail {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 24px;
+  padding: 6px 0;
+}
+.order-detail h4 {
+  margin: 0 0 8px;
+  font-size: var(--step-small);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--soft);
+}
+.order-items {
+  width: 100%;
+  border-collapse: collapse;
+}
+.order-items td {
+  padding: 6px 8px;
+  border-bottom: 1px solid var(--line); /* taste-skill-ignore: bảng mặt hàng trong đơn */
+}
+.order-items tr:last-child td {
+  border-bottom: 0;
+}
+.kv {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 4px 12px;
+  font-size: 0.95rem;
+}
+.kv dt {
+  color: var(--soft);
+}
+.kv dd {
+  margin: 0;
+}
+.totals-line {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 0;
+}
+.totals-line.grand {
+  font-weight: 700;
+  border-top: 1px solid var(--line);
+  margin-top: 6px;
+  padding-top: 8px;
+}
+
+/* ---------- Thanh công cụ sản phẩm ---------- */
+.product-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+.product-toolbar .search {
+  min-width: 220px;
+}
+.toolbar-spacer {
+  flex: 1;
+}
+.dirty-flag {
+  font-size: var(--step-small);
+  font-weight: 600;
+  color: #8a5a00;
+  background: #fff6e2;
+  border: 1px solid #f0dca0;
+  padding: 5px 11px;
+  border-radius: 999px;
+}
+
+/* ---------- Modal ---------- */
+.admin-modal[hidden] {
+  display: none;
+}
+.admin-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+}
+.modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(13, 33, 56, 0.45);
+}
+.modal-card {
+  position: relative;
+  width: min(760px, 100%);
+  max-height: 90vh;
+  overflow: auto;
+  background: var(--ground);
+  border-radius: 18px;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.3); /* taste-skill-ignore: hộp thoại nổi trên lớp phủ */
+}
+.modal-body {
+  padding: 28px;
+}
+.modal-body h3 {
+  margin: 0 0 18px;
+  font-size: 1.5rem;
+}
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px 16px;
+}
+.form-grid .full {
+  grid-column: 1 / -1;
+}
+.form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.form-field label {
+  font-size: var(--step-small);
+  font-weight: 600;
+}
+.form-field .field,
+.form-field textarea.field {
+  width: 100%;
+}
+textarea.field {
+  min-height: 72px;
+  resize: vertical;
+  font: inherit;
+}
+.variant-editor {
+  margin-top: 6px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+}
+.variant-row {
+  display: grid;
+  grid-template-columns: 1.3fr 0.7fr 0.8fr 2fr 0.8fr auto;
+  gap: 8px;
+  align-items: center;
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--line); /* taste-skill-ignore: bảng phân loại trong form */
+}
+.variant-row:last-child {
+  border-bottom: 0;
+}
+.variant-row .field {
+  padding: 7px 9px;
+  font-size: var(--step-small);
+}
+.variant-head {
+  background: var(--surface);
+  font-size: var(--step-small);
+  color: var(--soft);
+  font-weight: 600;
+}
+.icon-btn {
+  border: 1px solid var(--line);
+  background: #fff;
+  border-radius: 8px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
+  color: var(--soft);
+}
+.icon-btn:hover {
+  color: var(--error);
+  border-color: var(--error);
+}
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 22px;
+}
+.modal-actions .danger {
+  margin-right: auto;
+  color: var(--error);
+}
+
+.empty-state {
+  background: #fff;
+  border: 1px dashed var(--line);
+  border-radius: 14px;
+  padding: 40px;
+  text-align: center;
+}
+.empty-state p {
+  margin: 4px 0;
+}
+
+.link-btn {
+  border: 0;
+  background: none;
+  font: inherit;
+  color: var(--navy);
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+@media (max-width: 720px) {
+  .order-detail { grid-template-columns: 1fr; }
+  .form-grid { grid-template-columns: 1fr; }
+  .variant-row { grid-template-columns: 1fr 1fr; }
+  .admin-top-tools { width: 100%; }
+}

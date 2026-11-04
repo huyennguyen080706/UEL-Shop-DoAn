@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Đơn hàng mẫu, cùng cấu trúc với file XML trang Đặt hàng tạo ra -->
+<order code="UEL261029-K7Q2M" createdAt="2026-10-29T08:15:00.000Z">
+  <customer>
+    <name>Nguyễn Minh Anh</name>
+    <phone>0912345678</phone>
+  </customer>
+  <fulfillment type="PICKUP">Nhận tại trường</fulfillment>
+  <payment method="MOMO">Ví MoMo</payment>
+  <items>
+    <item sku="AT-THU-01-XANH-NAVY-M" color="Xanh navy" size="M" quantity="1" unitPrice="219000">Áo thun UEL Orbit Oversize</item>
+    <item sku="BL-THU-27-XANH-NAVY-FREE-SIZE" color="Xanh navy" size="Free size" quantity="1" unitPrice="399000">Balo UEL Move</item>
+  </items>
+  <totals>
+    <subtotal>618000</subtotal>
+    <shippingFee>0</shippingFee>
+    <total>618000</total>
+  </totals>
+</order>

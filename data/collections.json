@@ -1,0 +1,22 @@
+{
+  "collections": [
+    {
+      "slug": "hanh-trang-nhap-hoc",
+      "name": "Hành trang nhập học",
+      "description": "Khởi đầu hành trình đại học với những món đồ gọn nhẹ, dễ phối và gần gũi với nhịp sống sinh viên. Bộ sưu tập gợi ý áo thun, túi và phụ kiện cho những ngày đầu đến trường.",
+      "banner": "/images/lifestyle/ak-yen-05-campus-v2.webp"
+    },
+    {
+      "slug": "everyday-at-uel",
+      "name": "Everyday at UEL",
+      "description": "Từ tiết học buổi sáng đến buổi gặp gỡ bạn bè, những thiết kế cơ bản mang đến cảm giác năng động, thoải mái. Bộ sưu tập tập trung vào áo thun, polo, hoodie và áo khoác theo phong cách campus.",
+      "banner": "/images/lifestyle/at-yen-06-campus-v2.webp"
+    },
+    {
+      "slug": "graduation-memory",
+      "name": "Graduation Memory",
+      "description": "Một chặng đường đáng nhớ xứng đáng có món quà để lưu giữ. Bộ sưu tập giới thiệu hộp quà và phụ kiện mang cảm hứng tốt nghiệp, phù hợp để tham khảo ý tưởng tặng bạn bè và người thân.",
+      "banner": "/images/lifestyle/at-yen-07-campus-v2.webp"
+    }
+  ]
+}

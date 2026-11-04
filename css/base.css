@@ -1,0 +1,114 @@
+/* base.css: biến màu, font, reset. Mọi file CSS khác chỉ dùng biến ở đây. */
+:root {
+  --ground: #f3f4f6;
+  --surface: #e8ebef;
+  --ink: #161616;
+  --soft: #5b6470;
+  --navy: #164574;
+  --navy-hover: #0f3459;
+  --cream: #f6ecd9;
+  --sky: #7fb2e8;
+  --field-1: #dfe7f0;
+  --field-2: #efe7d8;
+  --field-3: #e4e6e9;
+  --field-4: #d6e0ea;
+  --line: #cfd5dc;
+  --ok: #1f7a4d;
+  --error: #b42318;
+  --gutter: clamp(16px, 3.4vw, 48px);
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --step-small: 0.875rem;
+  --step-body: 1rem;
+  --step-lead: clamp(1.125rem, 1rem + 0.5vw, 1.375rem);
+  --step-head: clamp(2rem, 1.3rem + 3vw, 4rem);
+  --step-display: clamp(3.25rem, 1.6rem + 7vw, 8.5rem);
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+/* thuộc tính hidden luôn thắng các luật display của từng thành phần */
+[hidden] {
+  display: none !important;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: "Be Vietnam Pro", system-ui, sans-serif;
+  font-size: var(--step-body);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+h1,
+h2,
+h3 {
+  margin: 0;
+  line-height: 1.08;
+  letter-spacing: -0.03em;
+  font-weight: 600;
+}
+p {
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+:focus-visible {
+  outline: 2px solid var(--navy);
+  outline-offset: 2px;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+.text-head {
+  font-size: var(--step-head);
+}
+.text-lead {
+  font-size: var(--step-lead);
+  line-height: 1.5;
+}
+.text-small {
+  font-size: var(--step-small);
+}
+.text-soft {
+  color: var(--soft);
+}
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "photos": [
+    {
+      "src": "images/site/metro-so-1.webp",
+      "caption": "Tuyến metro số 1, chặng về Thủ Đức",
+      "title": "11-01-2025 Line 1 Ho Chi Minh City metro for Ben Thanh Station 16",
+      "creator": "Xuanphuocle",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:11-01-2025_Line_1_Ho_Chi_Minh_City_metro_for_Ben_Thanh_Station_16.jpg"
+    },
+    {
+      "src": "images/site/ga-metro-suoi-tien.webp",
+      "caption": "Ga Suối Tiên, cửa ngõ Làng Đại học",
+      "title": "Suoi Tien Park metro station 4",
+      "creator": "Syced",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:Suoi_Tien_Park_metro_station_4.jpg"
+    },
+    {
+      "src": "images/site/dhqg-nha-dieu-hanh.webp",
+      "caption": "Nhà điều hành ĐHQG-HCM",
+      "title": "Nhà điều hành Đại học Quốc Gia TPHCM",
+      "creator": "Ah adodc at vi.wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Nh%C3%A0_%C4%91i%E1%BB%81u_h%C3%A0nh_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_Gia_TPHCM.jpg"
+    },
+    {
+      "src": "images/site/thu-duc-skyline.webp",
+      "caption": "TP. Thủ Đức nhìn từ cầu",
+      "title": "Thu Duc City Skyline 2023",
+      "creator": "Xuanphuocle",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Thu_Duc_City_Skyline_2023.jpg"
+    }
+  ]
+}

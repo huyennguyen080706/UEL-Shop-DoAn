@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "slug": "ao-thun",
+      "name": "Áo thun",
+      "description": "Các mẫu áo thun trẻ trung, dễ phối cho giờ học, hoạt động câu lạc bộ và ngày thường."
+    },
+    {
+      "slug": "polo",
+      "name": "Polo",
+      "description": "Polo chỉn chu mà năng động, phù hợp khi muốn diện mạo gọn gàng trên campus."
+    },
+    {
+      "slug": "ao-so-mi",
+      "name": "Áo sơ mi",
+      "description": "Sơ mi gọn gàng cho buổi thuyết trình, phỏng vấn hay những ngày cần chỉn chu hơn."
+    },
+    {
+      "slug": "hoodie",
+      "name": "Hoodie & Sweater",
+      "description": "Hoodie ấm áp với tinh thần sinh viên, dành cho ngày se lạnh hoặc những buổi học dài."
+    },
+    {
+      "slug": "cardigan",
+      "name": "Cardigan",
+      "description": "Cardigan nhẹ để khoác ngoài trong phòng học máy lạnh hay buổi sáng se lạnh."
+    },
+    {
+      "slug": "ao-khoac",
+      "name": "Áo khoác",
+      "description": "Áo khoác tiện dụng, dễ kết hợp cùng trang phục thường ngày."
+    },
+    {
+      "slug": "quan",
+      "name": "Quần",
+      "description": "Quần thể thao thoải mái cho giờ thể dục và những ngày vận động."
+    },
+    {
+      "slug": "balo-tui",
+      "name": "Balo & Túi",
+      "description": "Balo và túi mang đồ thiết yếu khi đến lớp, làm việc nhóm hay dạo quanh trường."
+    },
+    {
+      "slug": "phu-kien",
+      "name": "Phụ kiện",
+      "description": "Những món phụ kiện nhỏ giúp thể hiện phong cách và tạo điểm nhấn cá nhân."
+    },
+    {
+      "slug": "qua-tot-nghiep",
+      "name": "Quà tốt nghiệp",
+      "description": "Gợi ý quà lưu niệm giúp lưu giữ kỷ niệm của hành trình đại học."
+    }
+  ]
+}

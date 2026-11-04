@@ -1,0 +1,88 @@
+{
+  "slots": [
+    {
+      "id": "giang-duong",
+      "time": "7:30",
+      "title": "Tiết 1 ở giảng đường",
+      "note": "Gọn gàng cho buổi sáng, đủ chỗ cho laptop và bình nước.",
+      "codes": [
+        "PL-YEN-22",
+        "BL-THU-27",
+        "DD-UEL-18",
+        "BN-YEN-29",
+        "MY-11",
+        "VD-THU-23"
+      ]
+    },
+    {
+      "id": "the-duc",
+      "time": "9:30",
+      "title": "Giờ thể dục ngoài sân",
+      "note": "Thoáng, nhẹ và chịu được nắng giữa sân trường.",
+      "codes": [
+        "AT-YEN-07",
+        "QT-YEN-04",
+        "PK-SOCKS-04",
+        "PK-HAT-24",
+        "MY-07",
+        "PK-SANDALS-14"
+      ]
+    },
+    {
+      "id": "thuyet-trinh",
+      "time": "13:00",
+      "title": "Thuyết trình nhóm",
+      "note": "Một chiếc sơ mi chỉn chu và đủ đồ để ghi chép.",
+      "codes": [
+        "SM-YEN-11",
+        "TT-YEN-10",
+        "SO-THU-17",
+        "BU-THU-18",
+        "PO-THU-04",
+        "DT-THU-24"
+      ]
+    },
+    {
+      "id": "thu-vien",
+      "time": "19:00",
+      "title": "Buổi tối ở thư viện",
+      "note": "Ấm trong phòng máy lạnh, yên tĩnh cho những giờ ôn bài dài.",
+      "codes": [
+        "MY-25",
+        "LT-THU-21",
+        "LY-THU-16",
+        "TN-THU-22",
+        "MY-20",
+        "TM-THU-30"
+      ]
+    },
+    {
+      "id": "troi-mua",
+      "time": "17:00",
+      "title": "Tan học gặp mưa",
+      "note": "Áo gió, ô gấp và đôi sandal không ngại nước.",
+      "codes": [
+        "AK-YEN-05",
+        "OD-YEN-30",
+        "MY-26",
+        "MBH-YEN-19",
+        "PK-SANDALS-19",
+        "MY-28"
+      ]
+    },
+    {
+      "id": "tot-nghiep",
+      "time": "8:00",
+      "title": "Ngày nhận bằng tốt nghiệp",
+      "note": "Quà nhỏ để giữ lại một chặng đường bốn năm.",
+      "codes": [
+        "QT-THU-10",
+        "MY-05",
+        "KT-THU-14",
+        "SO-THU-17",
+        "LY-THU-16",
+        "MK-THU-13"
+      ]
+    }
+  ]
+}

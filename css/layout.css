@@ -1,0 +1,148 @@
+/* layout.css: khung trang, header, footer, lưới */
+.frame {
+  padding-inline: var(--gutter);
+}
+.section {
+  margin-top: clamp(80px, 10vw, 160px);
+}
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background: var(--ground);
+}
+.site-header .frame {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  height: 76px;
+}
+.logo img {
+  height: 42px;
+  width: auto;
+}
+.main-nav {
+  display: flex;
+  gap: 26px;
+  flex: 1;
+}
+.header-tools {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-left: auto;
+}
+.btn.menu-toggle {
+  display: none;
+}
+.site-footer {
+  margin-top: clamp(96px, 12vw, 180px);
+  background: var(--navy);
+  color: #fff;
+  padding-block: 72px 40px;
+}
+.footer-cards {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 12px;
+}
+.footer-cards img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  transition: transform 0.3s var(--ease);
+}
+.footer-cards img:nth-child(odd) {
+  transform: rotate(-1.5deg);
+}
+.footer-cards img:nth-child(even) {
+  transform: rotate(1.5deg);
+}
+.footer-cards img:hover {
+  transform: translateY(-8px);
+}
+.footer-cols {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+  margin-top: 56px;
+  font-size: var(--step-small);
+}
+.footer-cols h2 {
+  font-size: var(--step-body);
+  letter-spacing: 0;
+  margin-bottom: 16px;
+}
+.footer-cols li + li {
+  margin-top: 8px;
+}
+.footer-cols a,
+.footer-cols dd {
+  color: rgb(255 255 255 / 0.85);
+}
+.footer-cols a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+.footer-cols dl {
+  margin: 0;
+}
+.footer-cols dt {
+  color: rgb(255 255 255 / 0.6);
+  margin-top: 12px;
+}
+.footer-cols dd {
+  margin: 0;
+}
+.footer-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 56px;
+  font-size: var(--step-small);
+  color: rgb(255 255 255 / 0.75);
+}
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+}
+@media (max-width: 1023px) {
+  .main-nav,
+  .header-tools .search,
+  .header-tools .nav-link {
+    display: none;
+  }
+  .btn.menu-toggle {
+    display: inline-flex;
+  }
+  .main-nav.is-open {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 76px;
+    left: 0;
+    right: 0;
+    background: var(--ground);
+    padding: 16px var(--gutter) 24px;
+    gap: 14px;
+    box-shadow: 0 12px 24px rgb(0 0 0 / 0.08);
+  }
+  .footer-cols {
+    grid-template-columns: 1fr 1fr;
+  }
+  .grid-2 {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 560px) {
+  .footer-cards {
+    gap: 4px;
+  }
+}
+@media (max-width: 560px) {
+  .cart-sticker > span:last-child {
+    display: none;
+  }
+}

@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="vi" class="no-js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UEL Shop · Quản trị</title>
+<meta name="description" content="Trang quản trị nội bộ UEL Shop (bản tĩnh, dùng localStorage).">
+<meta name="theme-color" content="#164574">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="images/brand/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/layout.css">
+<link rel="stylesheet" href="css/components.css">
+<link rel="stylesheet" href="css/admin.css">
+<script src="js/store.js" defer></script>
+<script src="js/admin.js" defer></script>
+</head>
+<body data-page="admin">
+
+<!-- Cổng đăng nhập -->
+<section class="admin-gate" data-gate hidden>
+  <form class="gate-card" data-login>
+    <img class="gate-logo" src="images/brand/uel-campus-wear-horizontal-blue.svg" alt="UEL Shop" width="200" height="48">
+    <h1>Quản trị cửa hàng</h1>
+    <p class="text-soft text-small">Khu vực nội bộ. Nhập mã truy cập để tiếp tục.</p>
+    <label class="field-label" for="pass">Mã truy cập</label>
+    <input id="pass" name="pass" type="password" class="field" autocomplete="off" required>
+    <p class="gate-error" data-gate-error hidden>Mã truy cập không đúng.</p>
+    <button type="submit" class="btn btn-primary">Vào quản trị</button>
+    <a class="link text-small" href="index.html">← Về cửa hàng</a>
+  </form>
+</section>
+
+<!-- Bảng quản trị -->
+<div class="admin-shell" data-shell hidden>
+  <header class="admin-top">
+    <div class="admin-top-inner frame">
+      <a class="admin-brand" href="index.html"><img src="images/brand/uel-campus-wear-horizontal-blue.svg" alt="UEL Shop" width="150" height="36"><span>Quản trị</span></a>
+      <nav class="admin-tabs" aria-label="Khu quản trị">
+        <button type="button" class="admin-tab is-active" data-tab="orders">Đơn hàng</button>
+        <button type="button" class="admin-tab" data-tab="products">Sản phẩm</button>
+      </nav>
+      <div class="admin-top-tools">
+        <a class="link text-small" href="index.html" target="_blank" rel="noopener">Xem cửa hàng ↗</a>
+        <button type="button" class="btn btn-paper btn-sm" data-logout>Đăng xuất</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="admin-main frame">
+
+    <!-- ĐƠN HÀNG -->
+    <section class="admin-panel is-active" data-panel="orders" aria-label="Đơn hàng">
+      <div class="panel-head">
+        <h2>Đơn hàng</h2>
+        <p class="text-soft text-small">Đơn do khách đặt ở trang cửa hàng, lưu trong trình duyệt này (localStorage). Đổi trạng thái sẽ lưu lại ngay.</p>
+      </div>
+      <div class="stat-row" data-order-stats></div>
+      <div class="table-wrap">
+        <table class="admin-table" data-orders-table>
+          <thead><tr>
+            <th>Mã đơn</th><th>Ngày đặt</th><th>Khách hàng</th><th>Hình thức</th><th class="num">Tổng</th><th>Trạng thái</th><th></th>
+          </tr></thead>
+          <tbody data-orders-body></tbody>
+        </table>
+      </div>
+      <div class="empty-state" data-orders-empty hidden>
+        <p>Chưa có đơn nào trong trình duyệt này.</p>
+        <p class="text-small text-soft">Mở <a class="link" href="shop.html" target="_blank" rel="noopener">trang cửa hàng</a>, thêm vào giỏ và đặt thử một đơn — nó sẽ hiện ở đây.</p>
+      </div>
+    </section>
+
+    <!-- SẢN PHẨM -->
+    <section class="admin-panel" data-panel="products" aria-label="Sản phẩm" hidden>
+      <div class="panel-head">
+        <h2>Sản phẩm</h2>
+        <p class="text-soft text-small">Sửa trên giao diện này rồi bấm <strong>Tải products.json</strong>, thay file vào <code>data/products.json</code> và commit để khách thấy.</p>
+      </div>
+      <div class="product-toolbar">
+        <input type="search" class="field search" placeholder="Tìm theo tên hoặc mã…" data-prod-search>
+        <span class="toolbar-spacer"></span>
+        <span class="dirty-flag" data-dirty hidden>Có thay đổi chưa xuất</span>
+        <button type="button" class="btn btn-paper btn-sm" data-prod-reset>Khôi phục file gốc</button>
+        <button type="button" class="btn btn-paper btn-sm" data-prod-export>Tải products.json</button>
+        <button type="button" class="btn btn-primary btn-sm" data-prod-new>+ Thêm sản phẩm</button>
+      </div>
+      <div class="table-wrap">
+        <table class="admin-table" data-products-table>
+          <thead><tr>
+            <th></th><th>Mã</th><th>Tên</th><th>Danh mục</th><th class="num">Giá</th><th class="num">Tồn</th><th></th>
+          </tr></thead>
+          <tbody data-products-body></tbody>
+        </table>
+      </div>
+      <p class="text-small text-soft" data-products-count></p>
+    </section>
+
+  </main>
+</div>
+
+<!-- Modal sửa sản phẩm (JS dựng nội dung) -->
+<div class="admin-modal" data-modal hidden>
+  <div class="modal-backdrop" data-modal-close></div>
+  <div class="modal-card" role="dialog" aria-modal="true" aria-label="Sửa sản phẩm">
+    <div class="modal-body" data-modal-body></div>
+  </div>
+</div>
+
+</body>
+</html>

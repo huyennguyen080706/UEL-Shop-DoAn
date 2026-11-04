@@ -1,0 +1,66 @@
+{
+  "shop": {
+    "name": "UEL Shop",
+    "school": "Trường Đại học Kinh tế – Luật, ĐHQG-HCM",
+    "address": "669 Đỗ Mười, Khu phố 3, phường Linh Xuân, TP. Hồ Chí Minh",
+    "email": "hotro@uelshop.demo",
+    "hotline": "0123 456 789",
+    "hotlineHours": "8:00 – 17:00, thứ Hai đến thứ Sáu",
+    "facebook": "https://facebook.com/uelshop.demo",
+    "facebookLabel": "fb.com/uelshop.demo"
+  },
+  "pickup": {
+    "place": "Quầy UEL Shop, sảnh tầng trệt khu giảng đường chính",
+    "hours": [
+      {
+        "days": "Thứ Hai – thứ Sáu",
+        "time": "8:00 – 11:30 và 13:00 – 17:00"
+      },
+      {
+        "days": "Thứ Bảy",
+        "time": "8:00 – 11:30"
+      }
+    ],
+    "readyIn": "Đơn sẵn sàng nhận sau 1 ngày kể từ khi xác nhận; cửa hàng nhắn Zalo khi có thể nhận.",
+    "bring": "Mã đơn và số điện thoại đặt hàng (hoặc thẻ sinh viên).",
+    "holdDays": 7
+  },
+  "shipping": {
+    "feeHcm": 25000,
+    "feeOther": 35000,
+    "freeFrom": 500000,
+    "daysHcm": "1 – 2 ngày làm việc",
+    "daysOther": "3 – 5 ngày làm việc",
+    "carrier": "Đơn vị giao hàng đối tác"
+  },
+  "payment": {
+    "COD": {
+      "label": "Tiền mặt khi nhận hàng",
+      "note": "Trả khi nhận tại quầy hoặc trả cho người giao hàng."
+    },
+    "BANK_TRANSFER": {
+      "label": "Chuyển khoản ngân hàng",
+      "note": "Cửa hàng nhắn số tài khoản và nội dung chuyển khoản qua Zalo sau khi xác nhận đơn."
+    },
+    "MOMO": {
+      "label": "Ví MoMo",
+      "note": "Cửa hàng gửi mã thanh toán MoMo qua Zalo sau khi xác nhận đơn."
+    }
+  },
+  "returns": {
+    "days": 7,
+    "rules": [
+      "Đổi size hoặc đổi mẫu trong 7 ngày kể từ khi nhận hàng, mỗi đơn được đổi một lần.",
+      "Sản phẩm còn nguyên tem, chưa giặt, chưa qua sử dụng; phụ kiện còn nguyên bao bì.",
+      "Lỗi do cửa hàng (sai mẫu, sai size, lỗi may in): cửa hàng chịu toàn bộ phí và đổi mới.",
+      "Đổi theo nhu cầu: miễn phí khi đổi tại quầy; gửi qua đường bưu điện thì khách chịu phí vận chuyển hai chiều.",
+      "Không áp dụng đổi trả với sản phẩm in tên theo yêu cầu và quà tốt nghiệp đã khắc chữ."
+    ]
+  },
+  "bulk": {
+    "minQty": 20,
+    "discount": "Giảm 10% cho đơn từ 20 sản phẩm, 15% cho đơn từ 50 sản phẩm",
+    "leadTime": "7 – 10 ngày làm việc kể từ khi chốt mẫu và đặt cọc 50%",
+    "custom": "Nhận in tên lớp, khoa, CLB hoặc tên cá nhân trên áo thun, polo, hoodie."
+  }
+}
