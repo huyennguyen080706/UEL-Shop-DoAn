@@ -85,7 +85,7 @@
     if (RULES[k] && e.target.classList.contains("is-invalid")) {
       const msg = RULES[k](e.target.value);
       e.target.classList.toggle("is-invalid", !!msg);
-      form.querySelector().textContent = msg;
+      form.querySelector(`[data-err="${k}"]`).textContent = msg;
     }
     totals();
   });
