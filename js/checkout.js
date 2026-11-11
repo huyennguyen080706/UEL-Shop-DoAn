@@ -113,7 +113,9 @@
       shippingFee: fee,
       total: sub + fee,
     };
-    UEL.saveOrder(order);
+    if (!UEL.saveOrder(order)) {
+      return UEL.toast("Không lưu được đơn trên trình duyệt này. Giỏ hàng được giữ nguyên, vui lòng thử lại hoặc nhắn Zalo cho cửa hàng.");
+    }
     UEL.clearCart();
     const json = JSON.stringify(order, null, 2);
     const xml = toXml(order);

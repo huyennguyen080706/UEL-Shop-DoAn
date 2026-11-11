@@ -13,19 +13,19 @@
     list.innerHTML = items
       .map(
         (i) => `<div class="cart-line">
-          <img src="${i.image}" alt="">
+          <img src="${UEL.esc(i.image)}" alt="">
           <div>
-            <a href="product.html?slug=${i.slug}" style="font-weight:500">${UEL.esc(i.name)}</a>
+            <a href="product.html?slug=${encodeURIComponent(i.slug)}" style="font-weight:500">${UEL.esc(i.name)}</a>
             <p class="text-soft text-small">${UEL.esc(i.color)}, size ${UEL.esc(i.size)}</p>
             <div class="qty" style="margin-top:12px">
-              <button type="button" data-sku="${i.sku}" data-d="-1" aria-label="Bớt">−</button>
+              <button type="button" data-sku="${UEL.esc(i.sku)}" data-d="-1" aria-label="Bớt">−</button>
               <output class="tabular">${i.qty}</output>
-              <button type="button" data-sku="${i.sku}" data-d="1" aria-label="Thêm">+</button>
+              <button type="button" data-sku="${UEL.esc(i.sku)}" data-d="1" aria-label="Thêm">+</button>
             </div>
           </div>
           <div style="text-align:right">
             <p class="tabular">${UEL.vnd(i.price * i.qty)}</p>
-            <button type="button" class="link text-small" data-sku="${i.sku}" data-remove style="border:0;background:none;cursor:pointer;margin-top:8px">Xoá</button>
+            <button type="button" class="link text-small" data-sku="${UEL.esc(i.sku)}" data-remove style="border:0;background:none;cursor:pointer;margin-top:8px">Xoá</button>
           </div>
         </div>`
       )

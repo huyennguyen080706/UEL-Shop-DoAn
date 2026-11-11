@@ -10,14 +10,14 @@
   const caption = document.querySelector(".plinth-caption");
   const dots = document.querySelector(".plinth-dots");
   let i = 0;
-  stage.innerHTML = HERO.map((p, n) => `<img src="${p.images[0]}" alt="${UEL.esc(p.name)}" class="${n ? "" : "is-on"}">`).join("");
+  stage.innerHTML = HERO.map((p, n) => `<img src="${UEL.esc(p.images[0])}" alt="${UEL.esc(p.name)}" class="${n ? "" : "is-on"}">`).join("");
   dots.innerHTML = HERO.map((p, n) => `<button type="button" aria-label="${UEL.esc(p.name)}" aria-pressed="${!n}"><span></span></button>`).join("");
   const show = (n) => {
     i = n;
     stage.querySelectorAll("img").forEach((im, k) => im.classList.toggle("is-on", k === n));
     dots.querySelectorAll("button").forEach((b, k) => b.setAttribute("aria-pressed", k === n));
     const p = HERO[n];
-    caption.innerHTML = `<a href="product.html?slug=${p.slug}">${UEL.esc(p.name)}</a> <span class="text-soft tabular">${UEL.vnd(p.price)}</span>`;
+    caption.innerHTML = `<a href="product.html?slug=${encodeURIComponent(p.slug)}">${UEL.esc(p.name)}</a> <span class="text-soft tabular">${UEL.vnd(p.price)}</span>`;
   };
   dots.addEventListener("click", (e) => {
     const b = e.target.closest("button");
@@ -30,18 +30,18 @@
   const tabs = document.querySelector(".tt-tabs");
   const panel = document.querySelector(".tt-panel");
   tabs.innerHTML = slots
-    .map((s, n) => `<button type="button" role="tab" class="tt-tab" aria-selected="${!n}" data-id="${s.id}"><small>${s.time}</small>${UEL.esc(s.title)}</button>`)
+    .map((s, n) => `<button type="button" role="tab" class="tt-tab" aria-selected="${!n}" data-id="${UEL.esc(s.id)}"><small>${UEL.esc(s.time)}</small>${UEL.esc(s.title)}</button>`)
     .join("");
   const renderSlot = (id) => {
     const s = slots.find((x) => x.id === id);
     tabs.querySelectorAll(".tt-tab").forEach((t) => t.setAttribute("aria-selected", t.dataset.id === id));
     const items = s.codes.map((c) => byCode.get(c)).filter(Boolean);
-    panel.innerHTML = `<h3 class="text-head">${s.time} ${UEL.esc(s.title)}</h3>
+    panel.innerHTML = `<h3 class="text-head">${UEL.esc(s.time)} ${UEL.esc(s.title)}</h3>
       <p class="text-lead" style="margin-top:12px">${UEL.esc(s.note)}</p>
       <ul class="tt-list">${items
         .map(
-          (p) => `<li><a class="tt-item" href="product.html?slug=${p.slug}">
-            <img src="${p.images[0]}" alt="" loading="lazy">
+          (p) => `<li><a class="tt-item" href="product.html?slug=${encodeURIComponent(p.slug)}">
+            <img src="${UEL.esc(p.images[0])}" alt="" loading="lazy">
             <span><span style="font-weight:500">${UEL.esc(p.name)}</span><br><span class="text-soft text-small">${UEL.esc((p.description || "").split(".")[0])}.</span></span>
             <span class="tabular">${UEL.vnd(p.price)}</span></a></li>`
         )
@@ -65,8 +65,8 @@
     el.querySelector("img").alt = p.name;
     el.querySelector(".pair-name").textContent = p.name;
     el.querySelector(".pair-price").textContent = UEL.vnd(p.price);
-    el.querySelector(".pair-buy").href = `product.html?slug=${p.slug}`;
-    el.querySelector(".pair-cat").href = `shop.html?category=${p.category}`;
+    el.querySelector(".pair-buy").href = `product.html?slug=${encodeURIComponent(p.slug)}`;
+    el.querySelector(".pair-cat").href = `shop.html?category=${encodeURIComponent(p.category)}`;
   });
 
   // Mỗi loại một món

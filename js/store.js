@@ -57,7 +57,10 @@ const UEL = (() => {
       const all = JSON.parse(localStorage.getItem(ORDERS_KEY)) || [];
       all.unshift(order);
       localStorage.setItem(ORDERS_KEY, JSON.stringify(all.slice(0, 20)));
-    } catch {}
+      return true;
+    } catch {
+      return false;
+    }
   }
   function findOrder(code, phone) {
     try {
@@ -97,8 +100,8 @@ const UEL = (() => {
       <div class="tile-media ${f}">
         ${soldOut ? '<span class="badge-soldout">Hết hàng</span>' : ""}
         <div class="tile-inner">
-          <div class="tile-face ${f}"><img src="${p.images[0]}" alt="${esc(p.name)}" loading="lazy"></div>
-          ${back ? `<div class="tile-face tile-back ${f}" aria-hidden="true"><img src="${back}" alt="" loading="lazy"></div>` : ""}
+          <div class="tile-face ${f}"><img src="${esc(p.images[0])}" alt="${esc(p.name)}" loading="lazy"></div>
+          ${back ? `<div class="tile-face tile-back ${f}" aria-hidden="true"><img src="${esc(back)}" alt="" loading="lazy"></div>` : ""}
         </div>
       </div>
       <p class="tile-name">${esc(p.name)}</p>

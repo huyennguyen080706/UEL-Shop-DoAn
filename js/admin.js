@@ -74,7 +74,8 @@
     try { return JSON.parse(localStorage.getItem(ORDERS_KEY)) || []; } catch { return []; }
   }
   function writeOrders(list) {
-    try { localStorage.setItem(ORDERS_KEY, JSON.stringify(list)); } catch {}
+    try { localStorage.setItem(ORDERS_KEY, JSON.stringify(list)); return true; }
+    catch { alert("Không ghi được dữ liệu đơn vào trình duyệt."); return false; }
   }
 
   function initOrders() {
@@ -120,14 +121,14 @@
       .map((o, i) => {
         const d = new Date(o.createdAt);
         const date = isNaN(d) ? "—" : d.toLocaleString("vi-VN", { day: "2-digit", month: "2-digit", year: "2-digit", hour: "2-digit", minute: "2-digit" });
-        const opts = STATUS.map(([v, l]) => `<option value="${v}"${v === o.status ? " selected" : ""}>${l}</option>`).join("");
+        const opts = STATUS.map(([v, l]) => `<option value="${esc(v)}"${v === o.status ? " selected" : ""}>${esc(l)}</option>`).join("");
         return `<tr data-row="${i}">
           <td class="mono">${esc(o.code)}</td>
           <td>${date}</td>
           <td>${esc(o.customer?.name || "—")}<br><span class="text-small text-soft mono">${esc(o.customer?.phone || "")}</span></td>
-          <td>${FULFILL[o.fulfillment] || esc(o.fulfillment || "")}</td>
+          <td>${esc(FULFILL[o.fulfillment] || o.fulfillment || "")}</td>
           <td class="num tabular">${vnd(o.total)}</td>
-          <td><select class="status-select s-${o.status}" data-status="${i}" aria-label="Trạng thái đơn ${esc(o.code)}">${opts}</select></td>
+          <td><select class="status-select s-${esc(o.status)}" data-status="${i}" aria-label="Trạng thái đơn ${esc(o.code)}">${opts}</select></td>
           <td class="num"><button type="button" class="link-btn" data-detail="${i}">Chi tiết</button></td>
         </tr>`;
       })
@@ -201,7 +202,7 @@
           <dt>Tên</dt><dd>${esc(cust.name || "—")}</dd>
           <dt>Điện thoại</dt><dd class="mono">${esc(cust.phone || "—")}</dd>
           <dt>Email</dt><dd>${esc(cust.email || "—")}</dd>
-          <dt>Hình thức</dt><dd>${FULFILL[o.fulfillment] || esc(o.fulfillment || "")}</dd>
+          <dt>Hình thức</dt><dd>${esc(FULFILL[o.fulfillment] || o.fulfillment || "")}</dd>
           ${o.address ? `<dt>Địa chỉ</dt><dd>${esc(o.address)}</dd>` : ""}
           <dt>Thanh toán</dt><dd>${esc(o.paymentLabel || o.payment || "—")}</dd>
           ${o.note ? `<dt>Ghi chú</dt><dd>${esc(o.note)}</dd>` : ""}
@@ -244,7 +245,8 @@
     } catch { return null; }
   }
   function saveOverride() {
-    try { localStorage.setItem(PRODUCTS_OVERRIDE_KEY, JSON.stringify({ products })); } catch {}
+    try { localStorage.setItem(PRODUCTS_OVERRIDE_KEY, JSON.stringify({ products })); }
+    catch { alert("Không lưu được bản nháp sản phẩm vào trình duyệt."); return; }
     setDirty(true);
   }
   function setDirty(v) {
@@ -319,8 +321,8 @@
       ? { code: "", slug: "", name: "", price: 0, category: categories[0]?.slug || "", collection: "", sold: 0, material: "", care: "", description: "", images: [], variants: [] }
       : clone(products[idx]);
 
-    const catOpts = categories.map((c) => `<option value="${c.slug}"${c.slug === p.category ? " selected" : ""}>${esc(c.name)}</option>`).join("");
-    const colOpts = `<option value="">— Không —</option>` + collections.map((c) => `<option value="${c.slug}"${c.slug === p.collection ? " selected" : ""}>${esc(c.name)}</option>`).join("");
+    const catOpts = categories.map((c) => `<option value="${esc(c.slug)}"${c.slug === p.category ? " selected" : ""}>${esc(c.name)}</option>`).join("");
+    const colOpts = `<option value="">— Không —</option>` + collections.map((c) => `<option value="${esc(c.slug)}"${c.slug === p.collection ? " selected" : ""}>${esc(c.name)}</option>`).join("");
 
     $("[data-modal-body]").innerHTML = `
       <h3>${isNew ? "Thêm sản phẩm" : "Sửa sản phẩm"}</h3>
